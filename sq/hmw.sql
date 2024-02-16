@@ -65,5 +65,6 @@ SELECT SUM(salary) FROM userr;
 (1 row)
 
 this one  has issues 
+same values
 
 */
