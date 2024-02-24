@@ -13,7 +13,7 @@ func main() {
 	defer db.Close()
 	ca := storage.Newcategory(db)
 
-	/*Category := models.Category{
+	Category := models.Category{
 
 		Name: "TURKEY",
 	}
@@ -26,7 +26,7 @@ func main() {
 	}
 
 	fmt.Println("category created succesfully")
-	*/
+	
 	categories, err := ca.GetByID("7b21d19c-8888-446b-97a7-ed73d3547421")
 	if err != nil {
 		return
