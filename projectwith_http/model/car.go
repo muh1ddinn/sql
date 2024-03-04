@@ -10,4 +10,10 @@ type Car struct {
 	Colour      string
 	EngineCap   float32
 	CreatedAt   string
+	UpdatedAt   string
+}
+
+type GetAllCarsResponse struct {
+	Cars  []Car `json:"cars"`
+	Count int64 `json:"count"`
 }
