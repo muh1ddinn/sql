@@ -17,14 +17,15 @@ func main() {
 	}
 	defer store.DB.Close()
 
-	c := controller.NewController(store)
+	con := controller.NewController(store)
 
-	http.HandleFunc("/car", c.Car)
-	fmt.Println("programm is running on localhost:2100...")
-	http.ListenAndServe(":2100", nil)
+	http.HandleFunc("/car", con.Car)
+	http.HandleFunc("/customers", con.Customer)
+
+	fmt.Println("programm is running on localhost:1700...")
+	http.ListenAndServe(":1700", nil)
 
 	/*c.Createcaaa()
-	//c.Getalll()
 	//c.Getbyidd("0658679e-0d24-4db8-8394-af38f95a027e")
 	//c.Deletee("020df0f2-3d4c-48be-b182-61a7ff801195")
 	c.Updatee()

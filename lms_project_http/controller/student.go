@@ -1,25 +1,24 @@
 package controller
 
 import (
-	model "cars_with_sql/models"
-	"cars_with_sql/pkg/check"
 	"encoding/json"
 	"fmt"
+	"lms_backed_pr/model"
 	"net/http"
 
 	"github.com/google/uuid"
 )
 
-func (c Controller) Customer(w http.ResponseWriter, r *http.Request) {
+func (c Controller) Students(w http.ResponseWriter, r *http.Request) {
 	switch r.Method {
 	case http.MethodPost:
-		c.Createcus(w, r)
+		c.Createstudent(w, r)
 	case http.MethodGet:
 		values := r.URL.Query()
 		_, ok := values["id"]
 		if !ok {
 
-			c.Getallcus(w, r)
+			c.Getallstudent(w, r)
 		} else {
 
 			c.GetByIDCus(w, r)
@@ -29,14 +28,14 @@ func (c Controller) Customer(w http.ResponseWriter, r *http.Request) {
 		_, ok := values["id"]
 		if ok {
 			fmt.Print("update")
-			c.Upadatecus(w, r)
+			c.Upadatestu(w, r)
 		}
 
 	case http.MethodDelete:
 		values := r.URL.Query()
 		_, ok := values["id"]
 		if ok {
-			c.Deletecus(w, r)
+			c.Deletestudent(w, r)
 		}
 
 	default:
@@ -44,11 +43,11 @@ func (c Controller) Customer(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-func (c Controller) Createcus(w http.ResponseWriter, r *http.Request) {
+func (c Controller) Createstudent(w http.ResponseWriter, r *http.Request) {
 
-	customerr := model.Customers{}
+	student := model.Student{}
 
-	if err := json.NewDecoder(r.Body).Decode(&customerr); err != nil {
+	if err := json.NewDecoder(r.Body).Decode(&student); err != nil {
 		errstr := fmt.Sprintf("error while decoding request body,err:%v\n", err)
 		fmt.Print(errstr)
 		handleResponse(w, http.StatusBadRequest, errstr)
@@ -56,7 +55,7 @@ func (c Controller) Createcus(w http.ResponseWriter, r *http.Request) {
 
 	}
 
-	id, err := c.Store.Customer.Createcus(customerr)
+	id, err := c.Store.Students.Createstudent(student)
 	if err != nil {
 		fmt.Println("error while creating customer,err:", err)
 		return
@@ -64,11 +63,11 @@ func (c Controller) Createcus(w http.ResponseWriter, r *http.Request) {
 	handleResponse(w, http.StatusOK, id)
 
 }
-func (c Controller) Upadatecus(w http.ResponseWriter, r *http.Request) {
+func (c Controller) Upadatestu(w http.ResponseWriter, r *http.Request) {
 
-	custommer := model.Customers{}
+	student := model.Student{}
 
-	if err := json.NewDecoder(r.Body).Decode(&custommer); err != nil {
+	if err := json.NewDecoder(r.Body).Decode(&student); err != nil {
 
 		errstr := fmt.Sprintf("errpr while decoding request body,err:%v\n", err)
 		fmt.Println(errstr)
@@ -76,26 +75,15 @@ func (c Controller) Upadatecus(w http.ResponseWriter, r *http.Request) {
 		return
 
 	}
-	if err := check.Validategmail(custommer.Gmail); err != nil {
-		fmt.Println("error while validating gamil: ", custommer.Gmail)
-		handleResponse(w, http.StatusConflict, err)
-		return
-	}
-	if err := check.Validatenumber(custommer.Phone); err != nil {
 
-		fmt.Println("error while validating number:", custommer.Phone)
-		handleResponse(w, http.StatusBadRequest, err)
-		return
-	}
-
-	custommer.Id = r.URL.Query().Get("id")
-	err := uuid.Validate(custommer.Id)
+	student.Id = r.URL.Query().Get("id")
+	err := uuid.Validate(student.Id)
 	if err != nil {
 		fmt.Println("error while validating ,err: ", err)
 		handleResponse(w, http.StatusBadRequest, err.Error())
 		return
 	}
-	id, err := c.Store.Customer.Updatecus(custommer)
+	id, err := c.Store.Students.Updatestu(student)
 	if err != nil {
 		fmt.Println("error while updating customer,err:", err)
 		handleResponse(w, http.StatusBadRequest, err.Error())
@@ -106,7 +94,7 @@ func (c Controller) Upadatecus(w http.ResponseWriter, r *http.Request) {
 
 }
 
-func (c Controller) Getallcus(w http.ResponseWriter, r *http.Request) {
+func (c Controller) Getallstudent(w http.ResponseWriter, r *http.Request) {
 	var (
 		values = r.URL.Query()
 		search string
@@ -116,7 +104,7 @@ func (c Controller) Getallcus(w http.ResponseWriter, r *http.Request) {
 	}
 	fmt.Print("gett all")
 
-	cars, err := c.Store.Customer.GETallcus(search)
+	cars, err := c.Store.Students.Getallstudents(search)
 	if err != nil {
 		fmt.Println("error while getting cars, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err.Error())
@@ -130,7 +118,7 @@ func (c Controller) GetByIDCus(w http.ResponseWriter, r *http.Request) {
 	values := r.URL.Query()
 	id := values["id"][0]
 
-	cus, err := c.Store.Customer.Getbyidcus(id)
+	cus, err := c.Store.Students.Getallstudents(id)
 	if err != nil {
 		fmt.Println("error while getting car by id")
 		handleResponse(w, http.StatusInternalServerError, err)
@@ -139,7 +127,7 @@ func (c Controller) GetByIDCus(w http.ResponseWriter, r *http.Request) {
 	handleResponse(w, http.StatusOK, cus)
 }
 
-func (c Controller) Deletecus(w http.ResponseWriter, r *http.Request) {
+func (c Controller) Deletestudent(w http.ResponseWriter, r *http.Request) {
 
 	id := r.URL.Query().Get("id")
 	fmt.Println("id: ", id)
@@ -151,7 +139,7 @@ func (c Controller) Deletecus(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	err = c.Store.Customer.Deletecus(id)
+	err = c.Store.Students.Deletestu(id)
 	if err != nil {
 		fmt.Println("error while deleting car, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err)

@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"cars_with_sql/model"
+	model "cars_with_sql/models"
 	"cars_with_sql/pkg/check"
 	"encoding/json"
 	"fmt"
@@ -154,7 +154,7 @@ func (c Controller) GetbyCar(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	carrs, err := c.Store.Car.GetAll(id)
+	carrs, err := c.Store.Car.GetByid(id)
 	if err != nil {
 		fmt.Println("error while getting cars, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err.Error())

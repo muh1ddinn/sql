@@ -1,0 +1,6154 @@
+Iron Man - Wikipedia
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"661b7021-786e-4d46-8292-e6dc995d494c","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Iron_Man","wgTitle":"Iron Man","wgCurRevisionId":1211075473,"wgRevisionId":1211075473,"wgArticleId":67055,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Good articles","Wikipedia indefinitely semi-protected pages","Use American English from March 2022","All Wikipedia articles written in American English","Use mdy dates from September 2023","Character pop","Converting comics character infoboxes","Webarchive template wayback links","Articles with FAST identifiers","Articles with VIAF identifiers",
+"Articles with GND identifiers","Articles with J9U identifiers","Articles with LCCN identifiers","Articles with PLWABN identifiers","Iron Man","Avengers (comics) characters","Characters created by Don Heck","Characters created by Jack Kirby","Characters created by Larry Lieber","Characters created by Stan Lee","Cold War in popular culture","Comics characters introduced in 1963","Cyborg superheroes","Fictional alcohol abusers","Fictional aerospace engineers","Fictional arms dealers","Fictional billionaires","Fictional business executives","Fictional characters from New York City","Fictional electronic engineers","Fictional inventors","Fictional military strategists","Fictional engineers","Fictional roboticists","Fictional socialites","Fictional technopaths","Iron Man characters","Marvel Comics adapted into films","Marvel Comics adapted into video games","Marvel Comics American superheroes","Marvel Comics businesspeople","Marvel Comics cyborgs","Marvel Comics film characters",
+"Marvel Comics male superheroes","Marvel Comics scientists","S.H.I.E.L.D. agents","Superheroes who are adopted","Fiction about telepresence","Fictional hackers","Fictional mechanics"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Iron_Man","wgRelevantArticleId":67055,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":70000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":
+true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q180704","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready",
+"ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Languages
+Language links are at the top of the page.
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account
+Log in
+Pages for logged out editors
+learn more
+Contributions
+Talk
+Contents
+move to sidebar
+hide
+(Top)
+1
+Publication history
+Toggle Publication history subsection
+1.1
+Creation and premiere
+1.2
+1960s
+1.3
+1970s
+1.4
+1980s and 1990s
+1.5
+21st century
+2
+Characterization
+Toggle Characterization subsection
+2.1
+Fictional character biography
+2.2
+Personality and motivations
+3
+Themes and motifs
+Toggle Themes and motifs subsection
+3.1
+Politics
+3.2
+Technology
+3.3
+Armor
+3.4
+Allies
+3.5
+Villains
+3.6
+Alternate versions
+4
+Cultural impact and legacy
+5
+In other media
+6
+Notes
+7
+References
+Toggle References subsection
+7.1
+Books
+7.2
+Journals
+8
+Further reading
+9
+External links
+Toggle the table of contents
+Iron Man
+69 languages
+Afrikaans
+العربية
+Asturianu
+Azərbaycanca
+বাংলা
+Bân-lâm-gú
+Беларуская
+Български
+Brezhoneg
+Català
+Čeština
+Dansk
+الدارجة
+Deutsch
+Eesti
+Ελληνικά
+Español
+Esperanto
+Euskara
+فارسی
+Français
+ગુજરાતી
+한국어
+Հայերեն
+हिन्दी
+Hrvatski
+Bahasa Indonesia
+Italiano
+עברית
+ქართული
+Қазақша
+Kiswahili
+Latina
+Latviešu
+Lietuvių
+Magyar
+മലയാളം
+मराठी
+მარგალური
+Bahasa Melayu
+Nederlands
+日本語
+Norsk bokmål
+Oʻzbekcha / ўзбекча
+ਪੰਜਾਬੀ
+ភាសាខ្មែរ
+Polski
+Português
+Română
+Русский
+Shqip
+Simple English
+Slovenčina
+کوردی
+Српски / srpski
+Srpskohrvatski / српскохрватски
+Suomi
+Svenska
+Tagalog
+தமிழ்
+ไทย
+Türkçe
+Українська
+اردو
+Tiếng Việt
+Winaray
+吴语
+粵語
+中文
+Edit links
+Article
+Talk
+English
+Read
+View source
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+View source
+View history
+General
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiquote
+From Wikipedia, the free encyclopedia
+Superhero appearing in Marvel Comics
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}
+This article is about the fictional character. For the 2008 film based on the character, see
+Iron Man
+(2008 film)
+. For other uses, see
+Iron Man (disambiguation)
+.
+"Tony Stark" redirects here. For the film character, see
+Tony Stark (Marvel Cinematic Universe)
+.
+Comics character
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}
+.mw-parser-output .ib-comics .infobox-above,.mw-parser-output .ib-comics .infobox-title,.mw-parser-output .ib-comics .infobox-header{background-color:#99c2ff}@media(min-width:720px){.mw-parser-output .ib-comics{width:24em}.mw-parser-output .ib-comics .infobox-label{width:40%}}
+Tony Stark
+Iron Man
+Variant cover of
+Tony Stark: Iron Man
+#2 (July 2018)
+Art by
+Mark Brooks
+Publication information
+Publisher
+Marvel Comics
+First appearance
+Tales of Suspense
+#39
+(March 1963)
+Created by
+.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}
+Stan Lee
+Larry Lieber
+Don Heck
+Jack Kirby
+Steve Ditko
+In-story information
+Full name
+Anthony Edward Stark
+Place of origin
+Long Island, New York
+Team affiliations
+Avengers
+Department of Defense
+New Avengers
+Guardians of the Galaxy
+Illuminati
+Mighty Avengers
+S.H.I.E.L.D.
+Stark Industries
+Partnerships
+Happy Hogan
+Ironheart
+Pepper Potts
+War Machine
+Abilities
+Genius-level intellect
+Proficient scientist and engineer
+Utilizes
+powered armor suit
+Iron Man
+is a
+superhero
+appearing in
+American comic books
+published by
+Marvel Comics
+. Co-created by writer and editor
+Stan Lee
+, developed by scripter
+Larry Lieber
+, and designed by artists
+Don Heck
+and
+Jack Kirby
+, the character
+first appeared
+in
+Tales of Suspense
+#39 in 1963, and received his own title with
+Iron Man
+#1 in 1968. Shortly after his creation, Iron Man was a founding member of a superhero team, the
+Avengers
+, with
+Thor
+,
+Ant-Man
+,
+Wasp
+and the
+Hulk
+. Iron Man stories, individually and with the Avengers, have been published consistently since the character's creation.
+Iron Man is the superhero persona of
+Anthony Edward
+"
+Tony
+"
+Stark
+, a businessman and engineer who runs the company
+Stark Industries
+. Beginning his career as a weapons manufacturer, he is captured in a war zone, and his heart is severely injured by shrapnel. To sustain his heart and escape his captors, he builds
+a technologically advanced armor
+. After escaping, he continues using the armor as a superhero, creating more advanced models that grant him superhuman strength, flight, energy projection, and other abilities. The character was used to explore political themes, and early Iron Man stories were set in the
+Cold War
+. Later stories explored other themes, such as civil unrest, technological advancement, corporate espionage, alcoholism, and governmental authority.
+Major Iron Man stories include
+Demon in a Bottle
+(1979),
+Armor Wars
+(1987–1988),
+Extremis
+(2005), and
+Iron Man 2020
+(2020). He is also a leading character in the company-wide stories
+Civil War
+(2006–2007),
+Dark Reign
+(2008–2009), and
+Civil War II
+(2016). Iron Man's supporting cast has produced additional superhero characters, including James Rhodes as
+War Machine
+, Pepper Potts as
+Rescue
+, and Riri Williams as
+Ironheart
+as well as reformed villains
+Black Widow
+and
+Hawkeye
+. Iron Man's
+list of enemies
+includes his
+archenemy
+, the
+Mandarin
+, as well as many supervillains of
+communist
+origin and many that double as business rivals for Tony.
+Robert Downey Jr.
+portrayed
+Tony Stark
+in
+Iron Man
+(2008), the first film of the
+Marvel Cinematic Universe
+, and continued to portray the character until his final appearance in
+Avengers: Endgame
+(2019). Downey's portrayal popularized the character, elevating Iron Man as one of Marvel's most recognizable superheroes.
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}
+Publication history
+Further information:
+List of Iron Man titles
+Creation and premiere
+Following the success of the
+Fantastic Four
+in 1961 and the subsequent revival of superhero comic books, Marvel set about creating new superhero characters.
+[1]
+During this time,
+Stan Lee
+developed the initial concept for Iron Man.
+[1]
+Lee was interested in making an unlikeable character likeable, saying that he "thought it would be fun to take the kind of character that nobody would like, none of [Marvel's] readers would like, and shove him down their throats and make them like him".
+[2]
+Iron Man was created in the years after a permanent
+arms industry
+developed in the United States, and this was incorporated into the character's backstory.
+[3]
+The character was introduced as an active player in the
+Vietnam War
+. Lee described the national mood toward Vietnam in which Iron Man was created as "a time when most of us genuinely felt that the conflict in that tortured land really was a simple matter of good versus evil".
+[4]
+As superhero comics became more popular, Marvel began replacing its previous comic book lines with superheroes. The monster-themed anthology series
+Tales of Suspense
+began running Iron Man stories alongside more traditional science-fiction and horror stories, featuring Iron Man on each cover.
+[5]
+[6]
+Iron Man's first appearance, "Iron Man is Born!", was in
+Tales of Suspense
+#39, released in December 1962 with a cover date of March 1963. In 1964, the science-fiction and horror stories were removed entirely, with the series running only Iron Man and
+Captain America
+stories.
+[6]
+Larry Lieber
+developed Iron Man's origin and wrote the first Iron Man story, while
+Jack Kirby
+and
+Don Heck
+were responsible for the initial design.
+[1]
+[7]
+Kirby initially drew Iron Man as a "round and clunky gray heap", and the design was modified by Heck to incorporate gadgets such as jets, drills, and suction cups. Heck continued as the primary Iron Man artist until 1965, as Kirby had obligations to other Marvel properties.
+[5]
+[8]
+Heck later said that when designing Tony Stark, he was attempting to create "an
+Errol Flynn
+type".
+[9]
+Though the Iron Man armor was gray in its first appearance, it was quickly changed to gold due to issues with printing.
+[7]
+Lee briefly delegated the writing to other creators at Marvel, but he felt that their work was substandard; as with his other characters, Lee again took control of Iron Man so he could write the stories himself.
+[10]
+1960s
+When Marvel's distributor allowed them more monthly releases,
+The Avengers
+was developed as a new comic book series.
+[11]
+Iron Man was one of the five characters that formed
+the titular superhero team
+.
+[12]
+By 1965, the difficulty of maintaining continuity between
+The Avengers
+and the titles of the individual characters prompted Lee to write the original cast out of
+The Avengers
+, including Iron Man.
+[13]
+As part of a shuffling to match artists with the characters they were most suited for,
+Steve Ditko
+became the artist for
+Iron Man
+.
+[14]
+Ditko was responsible for only three issues in late 1963, but in this time he had Iron Man's suit redesigned with the red and gold color scheme that became the character's primary image.
+[15]
+Iron Man's recurring nemesis, the
+Mandarin
+, first appeared shortly after in
+Tales of Suspense
+#50.
+[16]
+Growing opposition to the
+American involvement in Vietnam
+prompted a shift in Iron Man's characterization at this time as part of a larger push by Marvel to be more apolitical.
+[4]
+[17]
+Lee shifted the focus of Iron Man stories to espionage and domestic crime, incorporating the intelligence agency
+S.H.I.E.L.D.
+into these stories. They also incorporated the villains of other Marvel heroes, avoiding Iron Man's primarily communist rogues' gallery. Some of Iron Man's villains were given new motivations without their communist allegiances.
+[18]
+Previously relegated to short stories in an anthology series, Iron Man was one of several characters to receive a full-length dedicated series in 1968.
+[19]
+The final issues of
+Tales of Suspense
+and
+Sub-Mariner
+'s
+Tales to Astonish
+were combined as a
+one-shot
+special,
+Iron Man and Sub-Mariner
+.
+[20]
+Iron Man
+then began its run under writer
+Archie Goodwin
+.
+[21]
+Political themes were reintroduced slowly over the following years, with a focus on domestic issues like racial conflict and environmentalism rather than geopolitics.
+[22]
+1970s
+.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%;max-width:100%}.mw-parser-output .quotebox.floatleft{margin:.5em 1.4em .8em 0}.mw-parser-output .quotebox.floatright{margin:.5em 0 .8em 1.4em}.mw-parser-output .quotebox.centered{overflow:hidden;position:relative;margin:.5em auto .8em auto}.mw-parser-output .quotebox.floatleft span,.mw-parser-output .quotebox.floatright span{font-style:inherit}.mw-parser-output .quotebox>blockquote{margin:0;padding:0;border-left:0;font-family:inherit;font-size:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:110%;font-weight:bold}.mw-parser-output .quotebox-quote>:first-child{margin-top:0}.mw-parser-output .quotebox-quote:last-child>:last-child{margin-bottom:0}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox .quote-title,.mw-parser-output .quotebox .quotebox-quote{display:block}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:640px){.mw-parser-output .quotebox{width:100%!important;margin:0 0 .8em!important;float:none!important}}
+I don't feel Tony Stark is a dinosaur, a creature unable to change before the weight of time crushes him aside. Yeah, it is hard in 1977 to praise a millionaire industrialist, playboy and former munitions-manufacturer—but it isn't impossible to change that image. Which is what I plan to do.
+Bill Mantlo
+,
+Iron Man #100
+[23]
+Over the years, the
+letters to the editor
+column in several issues saw extensive political debate.
+[24]
+When Goodwin was made editor-in-chief, assigned
+Gerry Conway
+as the writer for Iron Man.
+[25]
+Conway began a four-year-long effort to reform Iron Man in 1971 with stories that directly addressed the character's history as a weapons manufacturer.
+[26]
+These stories were especially prominent during a run by
+Mike Friedrich
+, in which corporate reform of Stark Industries was a recurring subplot.
+[27]
+Iron Man was one of several Marvel characters that declined in popularity during the 1970s, and the series went for a period of time without a dedicated writer until
+Bill Mantlo
+took over in 1977.
+[28]
+The following year,
+David Michelinie
+and
+Bob Layton
+took charge of the series beginning with issue #116.
+[29]
+[30]
+While inking the series, Layton used issues of
+GQ
+,
+Playboy
+, and electronics catalogues as visual references,
+[31]
+and they stayed informed on developments in real world technology so that the Iron Man armor would always be a more advanced version of what existed.
+[30]
+Layton was inspired by the vast collection of specialized outfits used by
+Batman
+when designing Iron Man's various armors.
+[32]
+In
+Iron Man
+#117 and #118, Michelinie and Layton replaced many elements that had developed in the series: they removed Iron Man's romantic interest, they removed the
+Life Model Decoys
+that served as robotic doubles of Tony Stark, and they had him move to a different home.
+[33]
+Iron Man's new romantic interest,
+Bethany Cabe
+, was introduced as a feminist character who worked as Tony Stark's bodyguard.
+[34]
+The largest change they made was making Iron Man an
+alcoholic
+.
+[33]
+This was unprecedented for a major comic book hero,
+[35]
+and for much of popular fiction.
+[36]
+This began the
+Demon in a Bottle
+story arc that ran from #120 to #128.
+[37]
+At the same time, they introduced the character of
+Justin Hammer
+, who became the main backer of several Iron Man villains.
+[38]
+1980s and 1990s
+The 1980s saw increased focus on Iron Man as a businessman reflecting the economic changes associated with
+Reaganomics
+, and many of his challenges involved threats to his company.
+[39]
+Denny O'Neil
+was put in charge of
+Iron Man
+beginning with issue #158. His run explored Tony Stark's psychology, having the character again fall into his alcoholism and suffer at the hands of business rival
+Obadiah Stane
+.
+[32]
+O'Neil eventually wrote Tony Stark out of the role entirely, having him temporarily retire as Iron Man and replacing him with his ally
+James Rhodes
+.
+[40]
+The 1987
+Armor Wars
+story arc blends the superhero and businessman aspects of Iron Man more directly when Tony Stark seeks legal recourse for rivals stealing the Iron Man technology.
+[39]
+Michelinie and Layton returned to the series with issue #211, and they again began experimenting with different variations on the Iron Man armor.
+[41]
+In 1990, Michelinie and Layton stopped writing for Iron Man, and the series was given to
+John Byrne
+, one of the most highly regarded comic book writers of the time. His run consisted of three story arcs across twenty issues:
+Armor Wars II
+(which had already been announced by Michelinie and Layton),
+The Dragon Seed Saga
+, and
+War Games
+. He did not have further interest in the series by 1992, as his collaborators
+John Romita Jr.
+and
+Howard Mackie
+had moved on to other projects. During his run, Byrne rewrote Iron Man's origin to remove references to communism and the Vietnam War.
+[42]
+Iron Man's supporting character War Machine was spun off into his own comic book series in 1994.
+[43]
+As part of a company-wide reorganization, Marvel's major characters, including Iron Man, were given to former Marvel writers
+Jim Lee
+and
+Rob Liefeld
+in a profit-sharing agreement. Lee and Liefeld were given charge of the 1996
+Heroes Reborn
+branding that renumbered Marvel's long-running periodicals at #1.
+[44]
+This new iteration, labeled volume two, was set in an alternate universe created during the
+Onslaught
+event. It ran for thirteen issues, written by Lee and
+Scott Lobdell
+and drawn by
+Whilce Portacio
+.
+[45]
+[46]
+The following year, Marvel introduced the
+Heroes Return
+event to bring the characters back from the alternate universe, which again reset characters such as Iron Man to issue #1.
+[47]
+[48]
+This was labeled volume three, which was taken on by writer
+Kurt Busiek
+and artist
+Sean Chen
+.
+[45]
+[49]
+21st century
+When the
+Ultimate Marvel
+imprint was created with reimagined versions of Marvel's characters, an
+alternate Iron Man
+appeared in 2002 with the
+Ultimates
+, the imprint's adaptation of The Avengers.
+[50]
+A five issue limited series,
+Ultimate Iron Man
+, was released featuring this character in 2005.
+[51]
+In 2004, Iron Man was a major character in the
+Avengers Disassembled
+event and subsequently became a founding member of
+The New Avengers
+.
+[52]
+Volume four of
+Iron Man
+began in 2005.
+[45]
+This new run was written by
+Warren Ellis
+and drawn by
+Adi Granov
+, and its first story arc,
+Extremis
+sees Iron Man upgrade his body directly through the Extremis virus, giving him direct control over a biological armor.
+[51]
+The first fourteen issues of volume four carried the
+Iron Man
+title, while issues #15–32 were titled
+Iron Man: Director of S.H.I.E.L.D.
+[45]
+Iron Man was the leader of the "pro-registration" faction during the 2006
+Civil War
+crossover event by
+Mark Millar
+and
+Steve McNiven
+.
+[53]
+After the character was rebranded as "Director of S.H.I.E.L.D.", he also appeared with
+The Mighty Avengers
+in 2007.
+[54]
+Coinciding with the release of the first
+Iron Man
+film, Marvel restarted Iron Man's comic book run with
+Invincible Iron Man
+, written by
+Matt Fraction
+and drawn by
+Salvador Larroca
+. This series ran for sixty issues alongside the character's standalone film appearances, ending shortly before
+Iron Man 3
+was set to be released.
+[55]
+The series reverted to the original numbering in 2011, when the overall 500th issue was published as
+Iron Man
+#500.
+[45]
+Iron Man was then one of several characters whose series was relaunched at issue #1 with the
+Marvel Now!
+branding following the 2012
+Avengers vs. X-Men
+event.
+[56]
+The 2014
+AXIS
+event led into the
+Superior Iron Man
+series, featuring an Iron Man with a new reversed personality.
+[57]
+Iron Man was again a leader of one faction during the 2016
+Civil War II
+event by
+Brian Michael Bendis
+.
+[58]
+As part of a broader trend by Marvel Comics to substitute its main characters with a diverse cast of original characters in the 2010s, Iron Man was then temporarily replaced by
+Ironheart
+, an African-American teenage girl who reverse engineered the Iron Man armor.
+[59]
+At the same time, the series
+Infamous Iron Man
+was created with
+Dr. Doom
+becoming Iron Man.
+[60]
+Invincible Iron Man
+was renumbered to #593 with the 2017
+Marvel Legacy
+branding, and this issue reintroduced Tony Stark.
+[61]
+[62]
+The series
+Tony Stark: Iron Man
+premiered in 2018 with the
+Fresh Start
+branding, written by
+Dan Slott
+and drawn by
+Valerio Schiti
+.
+[63]
+In 2020, Iron Man was relaunched in a new series, written by
+Christopher Cantwell
+and illustrated by CAFU, following the
+Iron Man 2020
+event. This series moved away from the developments and deviations from Stark's character introduced in the previous series to a more traditional superhero setting.
+[64]
+The character was relaunched again in 2022 with
+Invincible Iron Man
+, written by
+Gerry Duggan
+and illustrated by
+Juan Frigeri
+.
+[65]
+Characterization
+Fictional character biography
+.mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}
+Tales of Suspense
+#39 (March 1963): Iron Man debuts. Cover art by
+Jack Kirby
+and
+Don Heck
+.
+Tales of Suspense
+#48 (December 1963), the debut of Iron Man's first red-and-gold suit of armor. Cover art by Jack Kirby and
+Sol Brodsky
+.
+Tony Stark inherited his family's business, Stark Industries, after his parents were killed in a car crash.
+[66]
+Developing equipment for the U.S. military, he travels to a war zone to conduct a weapons test when he triggers a booby trap. His heart is critically injured by shrapnel, and he is captured by the communist Wong-Chu, who demands that Tony build him a weapon. Tony instead builds a suit of armor that sustains his heart, becoming Iron Man.
+[15]
+[5]
+The war zone that Tony visits has been
+changed
+multiple times by different writers to correspond with the character's age, which is explained by a "sliding scale of continuity" in which the timing of significant events in the world of Marvel may change. For the first decades of Iron Man's publication history, the conflict is the Vietnam War.
+[67]
+This was changed retroactively in the 1990s to an unnamed Southeast Asian country,
+[68]
+and a conflict in the fictional country of Siancong was eventually established to justify the inconsistency.
+[69]
+Iron Man returns to the United States and becomes a superhero, convincing the public that Iron Man is Tony Stark's bodyguard.
+[66]
+When he is called to stop
+Hulk
+and learns that
+Loki
+is behind Hulk's attack, he joins forces with Hulk,
+Thor
+,
+Ant-Man
+, and
+Wasp
+to defeat Loki, and they agree to form a superhero team, the Avengers.
+[12]
+At the same time, he helps found the intelligence agency S.H.I.E.L.D., providing the organization with equipment.
+[66]
+As Iron Man comes to regret his involvement in weapons manufacturing, Stark Industries is changed to Stark International, an electronics company that emphasizes
+environmentalism
+and ending
+world hunger
+.
+[70]
+[66]
+S.H.I.E.L.D. attempts to take over the business and revert it back to weapons manufacturing. At the same time, Iron Man is framed for murder. These stresses cause him to begin drinking heavily, and he develops alcoholism.
+[71]
+Though he gets sober, he later relapses back into alcoholism as part of a plot by
+Obadiah Stane
+.
+[66]
+Iron Man briefly loses his company to Stane, passes the mantle of Iron Man to his ally James Rhodes,
+[72]
+and becomes homeless.
+[73]
+After he recovers, Stane adopts an armored suit and becomes the Iron Monger before being defeated. Iron Man then founds a space technology company, Stark Enterprises. When Iron Man learns that
+Justin Hammer
+had acquired the Iron Man armor's technology, he seeks out all of the other armors.
+The resulting fights
+leave Iron Man a fugitive, leading him to fake his death and then describe himself as a new Iron Man.
+[66]
+Iron Man had previously undergone surgery to replace the damaged portions of his heart, eliminating the need for his prosthetic chest plate.
+[73]
+But when he is shot in the spine and paralyzed, he develops a new prosthesis that grants him mobility. This prosthesis is hacked and controlled remotely, causing neurological damage that appears for a time to kill him.
+[74]
+During this time,
+James Rhodes
+takes the Iron Man armor. After returning, Iron Man falls under the control of
+Immortus
+, turning him evil. The Avengers bring an alternate Tony Stark from another reality to help defeat him. Iron Man is killed, and the alternate Tony Stark becomes the new Iron Man. The original Iron Man and the alternate Iron Man are merged into a single being by
+Franklin Richards
+when
+he rewrites reality
+. His company had been bought out, so he starts a consulting firm, Stark Solutions. His secret identity is revealed to the public shortly afterward. He is then appointed
+Secretary of Defense
+until
+Scarlet Witch
+alters his mind, causing him to embarrass himself and leave in disgrace.
+[66]
+When
+Mallen
+becomes a threat through the Extremis project, Iron Man has himself injected with the Extremis virus, giving him a biological armor that he can control with his mind.
+[75]
+Iron Man serves as the enforcer of the Superhero Registration Act upon its enactment, creating
+a schism
+between superheroes, with Iron Man leading proponents of registration against a group of resistors led by
+Captain America
+.
+[53]
+At the end of the conflict, Iron Man is appointed head of S.H.I.E.L.D.
+[76]
+When the Earth is
+invaded
+by
+Skrulls
+, S.H.I.E.L.D.
+is dismantled
+, but Iron Man refuses to turn over the list of registered heroes to its corrupt successor agency
+H.A.M.M.E.R.
+[77]
+This is eventually dismantled as well, and Iron Man organizes the Avengers to replace these intelligence agencies.
+[66]
+He founds a clean energy company, Stark Resilient, and he fakes his death so his enemies would not threaten it. He joins the
+Guardians of the Galaxy
+for a time, and upon returning to Earth, he discovers that he had actually been adopted by the Starks so their
+real son
+could be hidden.
+[78]
+When several heroes' personalities are temporarily inverted, the morally corrupt Iron Man protected himself from the reversal and took over
+San Francisco
+to augment the residents with Extremis before his original personality was restored.
+[79]
+When a man is discovered who can see the future, the superhero community undergoes
+another schism
+, and Iron Man leads a team of heroes opposed to a system of predetermined justice using his ability.
+[58]
+The battle ends with Iron Man in a coma. A reformed
+Victor von Doom
+becomes Iron Man, while an artificial intelligence backup of Tony's mind guides a new armored superhero, Ironheart, until the technology in Tony's body allows him to heal.
+[78]
+Personality and motivations
+We really thought about how we needed to give him a weakness. It wasn't hip to have him running out of energy and looking for a light socket every few pages, or having a heart attack every time Ultimo was fighting him. So we discussed it and we thought that we would give him the corporate man's disease [alcoholism]. Something that would always haunt him.
+Bob Layton
+[80]
+Iron Man is a businessman and an entrepreneur who constantly seeks to innovate and improve his technology.
+[81]
+Stan Lee modeled Iron Man after businessman
+Howard Hughes
+.
+[82]
+[81]
+The character shares many traits with Hughes, including a similar business, his reputation as an arrogant playboy, and a physical resemblance.
+[81]
+As a businessman, Tony Stark is motivated to create and develop technology both for personal benefit and for the benefit of society.
+[83]
+[84]
+His belief in progress sometimes manifests as opposition to the press and politicians, whose attempts to keep him accountable hamper his efforts as a superhero.
+[85]
+Iron Man was created at a time when comic book characters were first depicted struggling with real life problems, and his heart injury was an early example of a superhero with a physical disability.
+[86]
+This injury was prominent in his early characterization, making him misanthropic so as not to reveal the nature of his injury or his
+secret identity
+,
+[8]
+thereby threatening his autonomy and his masculinity.
+[87]
+As real world medical technology made heart injuries less fatal, Iron Man's physical maladies extended to neurological damage.
+[88]
+Iron Man was given a mental illness as well when he was written as an alcoholic.
+[89]
+When his stories frequently invoked the Cold War during his first years of publication, Iron Man stood for
+liberal capitalism
+, fighting against communism in the name of democracy and capitalism.
+[90]
+In the early 1970s, Iron Man became more self-doubting, questioning when the use of force is justified against communism,
+[91]
+and he responded by becoming a
+philanthropist
+.
+[92]
+The 1990s saw Iron Man reject broader ideology in favor of individualism, and his allegiance to American democracy was replaced by his own personal values. He remains anti-communist, however, reiterating his support for democracy and refusing to do business in China following the
+Tiannamen Square Massacre
+.
+[93]
+Iron Man is portrayed as an archetype of how masculinity is seen in the United States,
+[94]
+with his success in business and his playboy characterization allowing the character to symbolize a masculine image of the country during the Cold War.
+[95]
+This characterization also manifests in negative traits that were prominent in early Iron Man stories, including belligerence, negligence, and misogyny.
+[96]
+Iron Man prefers machines to humans, believing that machines can be more easily controlled and repaired.
+[66]
+Writer Dennis O'Neil described the Iron Man armor as "a psychological crutch preventing him from dealing with his own inner demons".
+[32]
+He identifies with the Iron Man armor as an extension of himself. He believes that the image it presents is his own image, and he considers himself responsible any time someone uses the technology.
+[97]
+In the 2008 story
+The Five Nightmares
+, Iron Man narrates his five greatest fears: relapse into alcoholism, reproduction of the Iron Man technology, other people becoming Iron Man, the technology becoming disposable, and that someone else would be distributing this technology. Besides the danger that such scenarios pose, they all represent fear of Iron Man losing power over himself or his technology.
+[98]
+Themes and motifs
+Politics
+Iron Man was more overtly political than other Marvel characters of the
+Silver Age
+.
+[99]
+Stan Lee wished to create the "quintessential capitalist", developing him as an industrialist that manufactures weapons to fight communism.
+[100]
+From 1963 to 1968, Iron Man represented capitalism and the United States in allegories for the
+Cold War
+, particularly in reference to the
+Vietnam War
+.
+[4]
+[101]
+Though
+anti-communist
+sentiments were present throughout Marvel Comics, they appeared most prominently in Iron Man stories.
+[102]
+This dynamic allowed Iron Man to examine the perspectives of both the individual inventor and of the bureaucracy of governments and corporations.
+[103]
+After Marvel shifted away from addressing foreign conflicts, Iron Man was portrayed as a
+liberal
+who was skeptical of the U.S. government while also opposing
+radicalism
+associated with the
+counterculture of the 1960s
+. By 1975, Iron Man was an opponent of the Vietnam War.
+[104]
+John Bryne's run revisited communism at the end of the Cold War in the early 1990s, but it was shown as less threatening.
+[105]
+The absence of Cold War politics was not immediately replaced by another theme, and post-Cold War Iron Man stories often visited different ideas regarding technology for a short time before moving on.
+[106]
+When
+terrorism
+became more prominent in the public mind, Iron Man became a symbol of anti-terrorism rather than anti-communism.
+[107]
+Iron Man was one of the two main characters of the 2006
+Civil War
+event, an allegory for the
+Patriot Act
+and
+government surveillance
+. While Captain America represented liberal opposition to government surveillance in the name of individualism, Iron Man represented conservative support for government surveillance in the name of security.
+[108]
+In this story, Iron Man represented an attempt to define what a superhero was in the 21st century following the
+September 11 attacks
+, implicitly likening the fear of terrorism to the fear of unregulated super-powered beings.
+[109]
+While Marvel was neutral between the characters, readers overwhelmingly saw Iron Man as the villain, being the stronger force that the underdog had to overcome.
+[110]
+[111]
+A second
+Civil War
+event in 2016 portrayed Iron Man as an advocate of
+free will
+against Captain Marvel's
+determinism
+.
+[58]
+Technology
+Technology and its influence on society is a common theme in Iron Man stories,
+[112]
+[113]
+and Iron Man has been emphasized as a technological marvel since his earliest appearances.
+[114]
+Depictions of technology in Iron Man stories have often endorsed the use of technology to alter the natural world.
+[115]
+This is in contrast with other Marvel superheroes of the time, when scientific advances—and radiation in particular—are portrayed as having unintended effects.
+[84]
+[116]
+Iron Man's business, Stark Industries, is depicted as a force for good that advances scientific knowledge through capitalist innovation.
+[84]
+Reflecting his characterization as a businessman, Iron Man stories often invoke themes of
+economic competition
+, seeing him face characters that try to develop better versions of the Iron Man armor.
+[117]
+Likewise, many of Iron Man's challenges involve corrupt business rivals and
+corporate espionage
+.
+[105]
+The technological nature of the character means that he may also be seen as something that could possibly exist in the real world.
+[118]
+Iron Man's position within the suit allow for discussion regarding automation versus human oversight of technology.
+[119]
+These technological themes are explored through a modern lens during the
+Extremis
+story arc, which incorporates the idea of
+human enhancement
+through
+biotechnology
+.
+[120]
+[121]
+Armor
+Main article:
+Iron Man's armor
+Variations of the Iron Man armor
+In most depictions, Iron Man does not have any superhuman abilities. He instead derives his strength from
+powered armor
+of his own design.
+[122]
+In addition to protecting the wearer with its durability, it allows the wearer to fly.
+[123]
+As of 2010, Marvel Comics described Iron Man's armor as being able to lift 100 tons and to fly at
+Mach 8
+. The armor is also equipped with various weapons, which typically include
+particle beam
+"repulsor rays" in each palm that project energy as well as a stronger "unibeam" on his chest.
+[77]
+From its first appearance, the armor is linked to the brainwaves of the wearer to allow movement.
+[124]
+It must be calibrated to the user, and Iron Man has to design the armor specifically for who will be using it, whether it be himself or an ally.
+[125]
+It typically has some method of being shrunk down or made more portable when not being used.
+[126]
+When it was first developed, the armor was described as using
+transistors
+to function.
+[15]
+This was replaced with
+integrated circuits
+as real world technology advanced.
+[127]
+Its primary function was to produce a magnetic field that protected his heart from the shrapnel in his body, and his efforts to keep it charged and to keep it secret sometimes drove the story's plot in early years.
+[128]
+A contrast is made between the armor's strength and the vulnerability of the human inside it.
+[129]
+[128]
+The armor protects Iron Man externally from attacks, but it also protects him internally as it keeps his heart beating.
+[124]
+This point is emphasized by the form-fitting design of many Iron Man armors, which incorporates a clear human-like element in an otherwise robotic-looking character.
+[90]
+The armor was gray in its first appearance, but Iron Man gave it gold plating in the subsequent issue, and a few issues thereafter it was replaced by the red and gold look that the character became identified with.
+[130]
+The character constantly seeks to develop newer, more advanced variations on the armor, and he frequently designs specialized models for specific purposes.
+[131]
+These include the space armor, the stealth armor, and the deep sea armor,
+[132]
+as well as the Hulkbuster armor to engage in combat with the Hulk.
+[131]
+Developments in the armor's design often reflect real world advances in technology as well as trends in science fiction.
+[133]
+The use of a technological suit of armor has allowed artists to frequently make changes to the character's appearance without controversy.
+[113]
+During the
+Extremis
+story arc, Iron Man developed a biotechnological armor that was embedded in his DNA and stored in his bones, allowing him to summon the armor from within his body and control it with his mind, effectively giving him superhuman abilities. This reduced the
+input lag
+between him and his armor, allowed him to mentally interface with technology, and gave him the focus to engage in several unrelated tasks at once.
+[134]
+[135]
+The Extremis technology also converted Iron Man's mind into a digital storage device: this allowed him to create a back up of his memories. He used this back up after wiping his mind to destroy any record of the superhero registry. It also presented a weakness, as Iron Man's archnemesis
+Mandarin
+was able to access and manipulate the mind's data.
+[79]
+Allies
+Main article:
+List of Iron Man supporting characters
+Pepper Potts is an employee of Stark Industries that Tony Stark promoted to his executive assistant. As he had little interest in running the business, much of the management was handled by her.
+[136]
+When Tony became Iron Man and began taking responsibility for his company, she taught him how to manage the business.
+[66]
+When Potts is injured by an explosion and receives a heart injury similar to Iron Man's, he installs the arc reactor technology in her.
+[137]
+She eventually becomes the CEO of Stark Industries.
+[138]
+Iron Man built her a set of armor in secret, and after finding it she became the superhero Rescue.
+[139]
+James Rhodes is an employee of Tony Stark's that became the superhero
+War Machine
+.
+[107]
+He first appeared in 1979 and was developed as a supporting character in 1981.
+[140]
+He briefly took on the role of Iron Man while Tony Stark was relapsing on alcoholism.
+[72]
+Later on, when Tony was near death, he gave Rhodes his corporation and the War Machine Armor.
+[141]
+After Tony returned, he had Rhodes keep the armor.
+[142]
+Rhodes' dependency on Iron Man for his armor often constrains him as a supporting character to Tony, even in solo War Machine stories.
+[143]
+Happy Hogan
+was hired as Tony Stark's chauffeur after saving his life, and Hogan later deduced that Tony Stark was Iron Man.
+[144]
+Edwin Jarvis
+is the butler for the Stark family and for the Avengers. Through Iron Man's membership in the Avengers, he has worked extensively with many of his fellow heroes, including Captain America and Thor, among others.
+[145]
+He is also supported by his artificial intelligence companion
+F.R.I.D.A.Y.
+[79]
+His association with S.H.I.E.L.D. sees him working with its agents and leadership, including Nick Fury and
+Maria Hill
+.
+[138]
+He has also taken on other heroes as sidekicks, including
+Spider-Man
+and
+Jack of Hearts
+.
+[66]
+Iron Man has had many romantic interests, most of which only last a short time.
+[66]
+In Iron Man's original
+Tales of Suspense
+run, a
+love triangle
+was established in which Tony Stark and Happy Hogan both had romantic interest in Pepper Potts.
+[146]
+[8]
+Hogan eventually married Potts.
+[144]
+Roxie Gilbert, the sister of the villain Firebrand, was introduced as a romantic interest in the early 1970s. She was a foil for both Iron Man and Firebrand, representing non-violent activism.
+[147]
+Whitney Frost was Iron Man's romantic interest later in the decade until she turned against him as the villain
+Madame Masque
+.
+[33]
+She was replaced by
+Bethany Cabe
+as part of an overhaul of Iron Man's supporting cast, and Cabe was Iron Man's romantic interest during his alcoholism.
+[71]
+She left Iron Man after he saved her husband, who had been presumed dead. Iron Man later partnered with
+Rumiko Fujikawa
+, the daughter of a businessman who took over Stark Enterprises.
+[66]
+He eventually began a relationship with his long time ally
+Janet van Dyne
+.
+[78]
+A story arc in September 2023 saw Iron Man married to
+X-Men
+member
+Emma Frost
+as part of a plan to defeat the villain Feilong.
+[148]
+Villains
+Main article:
+List of Iron Man enemies
+Iron Man's earliest villains were often affiliated with the Soviet government or otherwise associated with communism.
+[149]
+In the first three years after Iron Man was created, one-third of his villains were communists.
+[150]
+Some of these enemies were Soviet counterparts of Iron Man, such as
+Titanium Man
+[99]
+and
+Crimson Dynamo
+,
+[151]
+while others were leadership of communist states, such as the
+Red Barbarian
+and the real-life Soviet leader
+Nikita Khrushchev
+.
+[149]
+Khrushchev, like most communists in the series, was drawn in
+caricature
+style as a brute who only sought power.
+[152]
+Multiple communist villains, such as Crimson Dynamo, were reformed and became heroes loyal to the United States to present Iron Man and liberal capitalism as more appealing and morally superior.
+[153]
+Two prominent Marvel heroes, Soviet spy
+Black Widow
+[154]
+and American street criminal
+Hawkeye
+, were introduced as Iron Man villains before reforming as heroes.
+[13]
+The
+Mandarin
+was introduced as a Chinese villain, initially incorporating racist
+Yellow Peril
+themes and stereotypes regarding China.
+[155]
+[156]
+Though he is also an allegory for autocracy,
+[157]
+the Mandarin was not created as another communist villain.
+[158]
+Instead, any work he does with the Chinese government is purely in self-interest.
+[159]
+Later on, the Mandarin was retroactively established as the man behind the kidnapping of Tony Stark that created Iron Man.
+[68]
+The Mandarin contrasts with Iron Man in that he is associated with magic and mysticism rather than science and technology,
+[160]
+[159]
+and in that he was born into nobility unlike Iron Man, who is a
+self-made man
+in line with American ideals.
+[157]
+Beginning in the 1970s, Iron Man faced villains that represented social conflict and unrest, such as the anarchist
+Firebrand
+and the corrupt businessman
+Guardsman
+.
+[161]
+Villains representing concerns about technology emerged at the same time, including
+Ultimo
+.
+[162]
+The business aspect of Iron Man's character has invited several supervillains who oppose Stark Industries rather than just Iron Man.
+[142]
+These villains became prominent in the 1980s,
+[163]
+and they were amplified by the backlash to the decade's consumerism that emerged in the 1990s.
+[105]
+Some of these villains wish to compete with the corporation and steal trade secrets, such as
+Spymaster
+,
+Whiplash
+, and
+Beetle
+. Others oppose the corporation on ideological grounds, such as
+Atom-Smasher
+.
+[142]
+Other such villains include Obadiah Stane,
+[72]
+Justin Hammer,
+[66]
+Shockwave
+, the
+Controller
+, the
+Mauler
+, and
+Stilt-Man
+.
+[163]
+A focus on terrorism brought villains such as
+Zeke Stane
+, who carried out terrorist attacks using
+suicide bombers
+.
+[164]
+Alternate versions
+Other characters in the
+Marvel Universe
+have taken on the role of Iron Man besides Tony Stark, including James Rhodes
+[72]
+Victor von Doom.
+[78]
+Several other versions of Iron Man exist in other universes as part of
+Marvel's multiverse
+. In the
+Ultimate Universe
+, an
+alternate version of Iron Man
+exists as a member of the
+Ultimates
+, the universe's counterpart of the Avengers.
+[165]
+Other variations include
+Iron Man 2020
+, the title of Arno Stark as a future Iron Man;
+Iron Man 2099, the superhero Sonny Frisco in the year 2099;
+Lord Iron, who exists in an
+Elizabethan society
+in the
+Marvel 1602
+series;
+Iron Hammer, a combination of Iron Man and Thor during the
+Infinity Warps
+event; and
+Iron Lantern, a combination with
+Green Lantern
+of
+DC Comics
+in the
+Amalgam
+crossover.
+[166]
+[167]
+Cultural impact and legacy
+Iron Man's appearances in the 1960s saw mixed reception from readers, many of whom criticized the character for his association with the United States military and the controversial Vietnam War.
+[4]
+[24]
+In response, Marvel rewrote the character to moderate his image and to have him directly reflect on his culpability in the harms caused by war.
+[26]
+[91]
+Iron Man became widely popular following the success of the film
+Iron Man
+, which made him one of Marvel's most recognizable characters,
+[1]
+and Iron Man is credited with redefining the
+superhero film
+genre.
+[168]
+[169]
+Since then, many publishers have listed Iron Man in the top ten in best Marvel character and best superhero lists.
+[170]
+[171]
+[172]
+Iron Man's portrayal of futuristic technology has affected public image of how these technologies may develop. Heavy use of
+augmented reality
+interfaces by Iron Man, in his helmet's
+heads-up display
+and elsewhere, has informed public awareness of the technology.
+[173]
+In 2019, a statue representing the character in his Iron Man armor was erected in
+Forte dei Marmi
+, Italy.
+[174]
+[175]
+In other media
+Main article:
+Iron Man in other media
+See also:
+Tony Stark (Marvel Cinematic Universe)
+Iron Man was portrayed by
+Robert Downey Jr.
+in the
+Marvel Cinematic Universe
+In 2008, a film adaptation titled
+Iron Man
+was released, starring
+Robert Downey Jr.
+as Tony Stark and directed by
+Jon Favreau
+.
+Iron Man
+was met with positive reviews from film critics,
+[176]
+grossing $318 million domestically and $585 million worldwide, and became the first in the long-running
+Marvel Cinematic Universe
+.
+[177]
+Downey's casting was praised, as was his portrayal of the character; Downey's own recovery from
+substance abuse
+was seen as creating a personal connection with the character.
+[178]
+Downey reprises his role in
+Iron Man 2
+(2010),
+Marvel's The Avengers
+(2012),
+Iron Man 3
+(2013),
+Avengers: Age of Ultron
+(2015),
+Captain America: Civil War
+(2016),
+Spider-Man: Homecoming
+(2017),
+Avengers: Infinity War
+(2018), and
+Avengers: Endgame
+(2019).
+[179]
+Iron Man supporting characters are set to appear in their own Marvel Cinematic Universe titles,
+Ironheart
+and
+Armor Wars
+.
+[180]
+Iron Man's first animated appearance was in a segment of the 1966 series
+The Marvel Super Heroes
+, which adapted comic book drawings into animations, and has since been featured in the animated series
+Iron Man
+(1994–1996) and
+Iron Man: Armored Adventures
+(2009–2012). He has also made many appearances in other Marvel animated programs, particularly those featuring the Avengers, and there have been multiple Iron Man
+direct-to-video
+releases.
+[181]
+Iron Man has featured in several video games, including
+Iron Man
+(2008) and
+Iron Man 2
+(2010), which were released as adaptations of his Marvel Cinematic Universe films. He also featured in the
+PlayStation VR
+game
+Iron Man VR
+(2020). An Iron Man
+action-adventure game
+was announced in 2022 to be developed by
+Motive Studio
+. Iron Man has also appeared in many other Marvel video games, such as those featuring the Avengers.
+[182]
+Notes
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+^
+a
+b
+c
+d
+Darowski 2015
+, p. 1.
+^
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+McGuire, Liam (July 5, 2021).
+"Stan Lee Admitted He Created Iron Man to be Completely Unlikable"
+.
+ScreenRant
+.
+Archived
+from the original on September 4, 2023
+. Retrieved
+September 4,
+2023
+.
+^
+Cooley & Rogers 2015
+, p. 78.
+^
+a
+b
+c
+d
+Mills 2013
+, p. 123.
+^
+a
+b
+c
+Howe 2012
+, p. 43.
+^
+a
+b
+Patton 2015
+, pp. 5–6.
+^
+a
+b
+Gilbert 2008
+, p. 91.
+^
+a
+b
+c
+Patton 2015
+, p. 7.
+^
+Coates 2014
+, p. 41.
+^
+Howe 2012
+, p. 45.
+^
+Gilbert 2008
+, p. 94.
+^
+a
+b
+Friedenthal 2021
+, pp. 30–31.
+^
+a
+b
+Howe 2012
+, p. 56.
+^
+Howe 2012
+, p. 50.
+^
+a
+b
+c
+Patton 2015
+, p. 8.
+^
+Gilbert 2008
+, p. 99.
+^
+Wright 2001
+, pp. 222–223.
+^
+Henebry 2015
+, pp. 100–101.
+^
+Howe 2012
+, p. 89.
+^
+Gilbert 2008
+, p. 130.
+^
+Henebry 2015
+, p. 101.
+^
+Henebry 2015
+, pp. 102–105.
+^
+Henebry 2015
+, p. 116.
+^
+a
+b
+Henebry 2015
+, p. 110.
+^
+Howe 2012
+, p. 188.
+^
+a
+b
+Henebry 2015
+, p. 111.
+^
+Henebry 2015
+, p. 112.
+^
+Sacks 2015
+, p. 138.
+^
+Sacks 2015
+, p. 139.
+^
+a
+b
+Ridout 1992
+, p. 6.
+^
+Howe 2012
+, p. 223.
+^
+a
+b
+c
+Ridout 1992
+, p. 7.
+^
+a
+b
+c
+Sacks 2015
+, p. 140.
+^
+Gilbert 2008
+, p. 187.
+^
+Sacks 2015
+, p. 142.
+^
+Sacks 2015
+, p. 144.
+^
+Sacks 2015
+, pp. 141–142.
+^
+Gilbert 2008
+, p. 189.
+^
+a
+b
+Zanco 2015
+, pp. 165–166.
+^
+Howe 2012
+, p. 255.
+^
+Ridout 1992
+.
+^
+Darowski, Joseph J. 2015
+, pp. 171–173.
+^
+Gilbert 2008
+, p. 269.
+^
+Howe 2012
+, p. 373.
+^
+a
+b
+c
+d
+e
+Zehr 2011
+, p. 181.
+^
+Gilbert 2008
+, p. 280.
+^
+Howe 2012
+, p. 394.
+^
+Gilbert 2008
+, p. 285.
+^
+Gilbert 2008
+, p. 289.
+^
+Gilbert 2008
+, p. 311.
+^
+a
+b
+Gilbert 2008
+, p. 325.
+^
+Gilbert 2008
+, pp. 323–324.
+^
+a
+b
+Friedenthal 2021
+, pp. 82–83.
+^
+Gilbert 2008
+, p. 335.
+^
+Mozzocco, J. Caleb (May 28, 2013).
+"Re-reading 'Invincible Iron Man,' Part 1: What's so great about 'Invincible Iron Man'?"
+.
+CBR
+.
+Archived
+from the original on September 5, 2023
+. Retrieved
+September 4,
+2023
+.
+^
+Overpeck 2017
+, pp. 178–179.
+^
+Johnson, Jim (November 12, 2014).
+"Superior Iron Man #1"
+.
+CBR
+.
+Archived
+from the original on April 9, 2022
+. Retrieved
+September 4,
+2023
+.
+^
+a
+b
+c
+Friedenthal 2021
+, pp. 91–93.
+^
+Friedenthal 2021
+, p. 90.
+^
+Schedeen, Jesse (October 19, 2016).
+"Infamous Iron Man #1 Review"
+.
+IGN
+. Retrieved
+February 27,
+2024
+.
+^
+Adams, Tim (October 23, 2017).
+"REVIEW: Invincible Iron Man #593 Kicks Off The Search for Tony Stark"
+.
+CBR
+.
+Archived
+from the original on September 5, 2023
+. Retrieved
+September 4,
+2023
+.
+^
+Staley, Brandon (July 7, 2017).
+"Marvel Legacy's Invincible Iron Man Sees the Return of Tony Stark"
+.
+CBR
+.
+Archived
+from the original on September 5, 2023
+. Retrieved
+September 4,
+2023
+.
+^
+Schedeen, Jesse (June 21, 2018).
+"Iron Man's New Comic Is Fun but Shallow (Tony Stark: Iron Man #1 Review)"
+.
+IGN
+. Retrieved
+February 27,
+2024
+.
+^
+Polo, Susana (September 21, 2020).
+"Tony Stark deleted Twitter because his mentions were horrible"
+.
+Polygon
+. Retrieved
+February 27,
+2024
+.
+^
+Schedeen, Jesse (September 21, 2022).
+"Marvel's New Iron Man Series Gives Tony Stark the 'Born Again' Treatment"
+.
+IGN
+. Retrieved
+February 27,
+2024
+.
+^
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+Hoskin 2010
+, Iron Man.
+^
+Friedenthal 2021
+, pp. 73–74.
+^
+a
+b
+Darowski, Joseph J. 2015
+, p. 176.
+^
+Friedenthal 2021
+, pp. 74–75.
+^
+Henebry 2015
+, pp. 95–96.
+^
+a
+b
+Sacks 2015
+, p. 141.
+^
+a
+b
+c
+d
+Chambliss 2015
+, p. 152.
+^
+a
+b
+Mulligan 2015
+, p. 209.
+^
+Mulligan 2015
+, pp. 210–211.
+^
+Hogan 2009
+, pp. 209–210.
+^
+Friedenthal 2021
+, p. 86.
+^
+a
+b
+Hoskin 2010
+, Iron Man Update.
+^
+a
+b
+c
+d
+Fentiman 2019
+, p. 195.
+^
+a
+b
+c
+O'Sullivan 2016
+, Iron Man Update.
+^
+Sacks 2015
+, pp. 140–141.
+^
+a
+b
+c
+Zanco 2015
+, p. 167.
+^
+Cooley & Rogers 2015
+, p. 77.
+^
+Zanco 2015
+, pp. 164–167.
+^
+a
+b
+c
+Cooley & Rogers 2015
+, p. 80.
+^
+Cooley & Rogers 2015
+, pp. 81–82.
+^
+Mills 2013
+, p. 106.
+^
+Genter 2007
+, p. 968.
+^
+Mulligan 2015
+, pp. 205–206.
+^
+Sacks 2015
+, p. 137.
+^
+a
+b
+Patton 2015
+, p. 15.
+^
+a
+b
+Cooley & Rogers 2015
+, p. 88.
+^
+Henebry 2015
+, p. 103.
+^
+Darowski, Joseph J. 2015
+, pp. 176–177.
+^
+Michálek 2015
+, p. 193.
+^
+Alaniz 2015
+, p. 58.
+^
+Michálek 2015
+, p. 201.
+^
+Hogan 2009
+, p. 205.
+^
+Michálek 2015
+, p. 196.
+^
+a
+b
+Wright 2001
+, p. 222.
+^
+This 2015
+, p. 17.
+^
+Alaniz 2015
+, p. 52.
+^
+Patton 2015
+, p. 10.
+^
+Genter 2007
+, pp. 967–968.
+^
+Wright 2001
+, pp. 241–243.
+^
+a
+b
+c
+Darowski, Joseph J. 2015
+, p. 175.
+^
+Mulligan 2015
+, p. 218.
+^
+a
+b
+Chambliss 2015
+, p. 148.
+^
+Friedenthal 2021
+, p. 83.
+^
+Darowski, John 2015
+, p. 189.
+^
+Darowski, John 2015
+, p. 181.
+^
+Friedenthal 2021
+, p. 85.
+^
+Vohlidka 2015
+, p. 121.
+^
+a
+b
+Hogan 2009
+, p. 201.
+^
+Patton 2015
+, p. 14.
+^
+Alaniz 2015
+, pp. 58–59.
+^
+Zanco 2015
+, p. 164.
+^
+Zanco 2015
+, p. 168.
+^
+Zehr 2011
+, p. 154.
+^
+Mulligan 2015
+, pp. 206–207.
+^
+Michálek 2015
+, pp. 194–195.
+^
+Hogan 2009
+, p. 210.
+^
+Vohlidka 2015
+, p. 132.
+^
+Zehr 2011
+, p. xi.
+^
+a
+b
+Hogan 2009
+, p. 203.
+^
+Zehr 2011
+, p. 78.
+^
+Zanco 2015
+, pp. 164–165.
+^
+Ridout 1992
+, p. 5.
+^
+a
+b
+Mulligan 2015
+, p. 208.
+^
+Zehr 2011
+, p. 166.
+^
+Zehr 2011
+, pp. 8–10.
+^
+a
+b
+Zehr 2011
+, p. 6.
+^
+Ridout 1992
+, pp. 6–7.
+^
+Mulligan 2015
+, p. 205.
+^
+Mulligan 2015
+, pp. 213–214.
+^
+Zehr 2011
+, pp. 37–38.
+^
+Hoskin 2010
+, Pepper Hogan.
+^
+Michálek 2015
+, p. 197.
+^
+a
+b
+Michálek 2015
+, p. 198.
+^
+Hoskin 2010
+, Rescue.
+^
+Chambliss 2015
+, p. 150.
+^
+Chambliss 2015
+, p. 153.
+^
+a
+b
+c
+Chambliss 2015
+, p. 154.
+^
+Chambliss 2015
+, p. 158.
+^
+a
+b
+Hoskin 2010
+, Happy Hogan.
+^
+Ashford, Sage (July 28, 2020).
+"Iron Man: Tony Stark's 10 Closest Allies"
+.
+CBR
+.
+Archived
+from the original on September 4, 2023
+. Retrieved
+September 4,
+2023
+.
+^
+Minett & Schauer 2017
+, p. 58.
+^
+Henebry 2015
+, pp. 113–114.
+^
+Polo, Susana (September 27, 2023).
+"Iron Man has reached his final form: a hot lady's trophy husband"
+.
+Polygon
+. Retrieved
+February 22,
+2024
+.
+^
+a
+b
+Patton 2015
+, pp. 10–11.
+^
+Alaniz 2015
+, p. 59.
+^
+Wright 2001
+, p. 241.
+^
+Alaniz 2015
+, pp. 61–63.
+^
+Alaniz 2015
+, p. 65.
+^
+Howe 2012
+, p. 106.
+^
+Iadonisi 2015
+, p. 39.
+^
+Henebry 2015
+, p. 98.
+^
+a
+b
+Iadonisi 2015
+, p. 46.
+^
+Iadonisi 2015
+, p. 41.
+^
+a
+b
+Darowski, Joseph J. 2015
+, p. 178.
+^
+Iadonisi 2015
+, p. 44.
+^
+Henebry 2015
+, pp. 111–113.
+^
+Vohlidka 2015
+, p. 119.
+^
+a
+b
+Zanco 2015
+, p. 166.
+^
+Zanco 2015
+, p. 169.
+^
+O'Sullivan 2015
+, 'Ultimate Universe' (Reality-1610).
+^
+Ashford, Sage (July 27, 2019).
+"10 Coolest Alternate Universe Iron Man Armors"
+.
+CBR
+. Retrieved
+September 4,
+2023
+.
+^
+Harn, Darby (September 25, 2021).
+"15 Most Powerful Variants Of Iron Man In Marvel Comics"
+.
+ScreenRant
+. Retrieved
+September 4,
+2023
+.
+^
+Crump, Andy (May 2, 2018).
+"Why Iron Man was the most pivotal movie of the last decade"
+.
+The Week
+.
+Archived
+from the original on September 5, 2023
+. Retrieved
+September 5,
+2023
+.
+^
+Robinson, Joanna (November 29, 2017).
+"Marvel Looks Back at Iron Man—the Movie That Started It All"
+.
+Vanity Fair
+.
+Archived
+from the original on October 4, 2023
+. Retrieved
+September 5,
+2023
+.
+^
+"The 100 Best Marvel Characters Ranked: 20–1"
+.
+The A.V. Club
+. July 8, 2022.
+Archived
+from the original on August 3, 2022
+. Retrieved
+November 21,
+2022
+.
+^
+Cartelli, Lance (February 15, 2018).
+"The 50 Most Important Superheroes, Ranked"
+.
+GameSpot
+.
+Archived
+from the original on November 21, 2022
+. Retrieved
+November 21,
+2022
+.
+^
+Cartelli, Lance (February 25, 2019).
+"Ranking The 50 Most Important Superheroes Ever"
+.
+ComicBook.com
+.
+Archived
+from the original on February 13, 2023
+. Retrieved
+November 21,
+2022
+.
+^
+Pedersen & Simcoe 2012
+.
+^
+"Italy erects Iron Man statue to honor Tony Stark's noble death in Avengers: Endgame"
+.
+SYFY Official Site
+. September 5, 2019.
+Archived
+from the original on November 21, 2022
+. Retrieved
+November 21,
+2022
+.
+^
+"Italian Town Pays Tribute to Iron Man By Erecting Statue"
+.
+comicbook.com
+.
+Archived
+from the original on December 29, 2022
+. Retrieved
+December 29,
+2022
+.
+^
+Yamato, Jen (May 1, 2008).
+"
+Iron Man
+is the Best-Reviewed Movie of 2008!"
+.
+Rotten Tomatoes
+.
+Archived
+from the original on November 9, 2014
+. Retrieved
+June 21,
+2008
+.
+^
+"
+Iron Man
+"
+.
+Box Office Mojo
+.
+Archived
+from the original on May 12, 2013
+. Retrieved
+May 14,
+2013
+.
+^
+Sacks 2015
+, p. 145.
+^
+Miller, Ross (April 25, 2019).
+"Everything you need to remember about the OG Avengers before Endgame"
+.
+Polygon
+. Retrieved
+February 22,
+2024
+.
+^
+Radulovic, Petrana; Polo, Susana; Welsh, Oli; Goslin, Austen (September 23, 2020).
+"Every Marvel movie and TV release set for 2024 and beyond"
+.
+Polygon
+. Retrieved
+February 22,
+2024
+.
+^
+Goldman, Eric (April 29, 2013).
+"Iron Man's TV History"
+.
+IGN
+.
+Archived
+from the original on June 19, 2013
+. Retrieved
+September 3,
+2023
+.
+^
+Good, Owen S. (September 20, 2022).
+"EA is making an Iron Man video game"
+.
+Polygon
+.
+Archived
+from the original on September 3, 2023
+. Retrieved
+September 3,
+2023
+.
+References
+Books
+Coates, John (2014).
+Don Heck: A Work of Art
+. Raleigh, North Carolina:
+TwoMorrows Publishing
+.
+ISBN
+978-1605490588
+.
+Darowski, Joseph J., ed. (2015).
+The Ages of Iron Man: Essays on the Armored Avenger in Changing Times
+. McFarland.
+ISBN
+978-1-4766-2074-9
+.
+Alaniz, José. "'Does Khrushchev Tell Kennedy?'". In
+Darowski (2015)
+.
+Chambliss, Julian C. "War Machine". In
+Darowski (2015)
+.
+Cooley, Will; Rogers, Mark C. "Ike's Nightmare". In
+Darowski (2015)
+.
+Darowski, John. "'I would be the bad guy'". In
+Darowski (2015)
+.
+Darowski, Joseph J. "Cold Warrior at the End of the Cold War". In
+Darowski (2015)
+.
+Henebry, Charles. "Socking It to Shell-Head". In
+Darowski (2015)
+.
+Iadonisi, Richard A. "Fu Manchu Meets Maklu". In
+Darowski (2015)
+.
+Michálek, Jason. "Feminizing the Iron". In
+Darowski (2015)
+.
+Mulligan, Rikk. "Iron Icarus". In
+Darowski (2015)
+.
+Patton, Brian. "'The Iron-Clad American'". In
+Darowski (2015)
+.
+Sacks, Jason. "'Demon in a Bottle and Feet of Clay'". In
+Darowski (2015)
+.
+This, Craig. "Tony Stark: Disabled Vietnam Veteran?". In
+Darowski (2015)
+.
+Vohlidka, John M. "Countdown to #100". In
+Darowski (2015)
+.
+Zanco, Jean-Philippe. "From Armor Wars to Iron Man 2.0". In
+Darowski (2015)
+.
+Fentiman, David (2019).
+Marvel Encyclopedia
+(New ed.). DK Books.
+ISBN
+978-1-4654-7890-0
+.
+Friedenthal, Andrew J., ed. (2021). "Iron Man".
+The World of Marvel Comics
+. Routledge. pp. 192–195.
+ISBN
+978-1-000-43111-7
+.
+Gilbert, Laura, ed. (2008).
+Marvel Chronicle: A Year By Year History
+. DK Publishing.
+ISBN
+978-0-7566-4123-8
+.
+Hoskin, Michael (2010).
+Iron Man Iron Manual Mark 3
+. Marvel Comics.
+Howe, Sean (2012).
+Marvel Comics: The Untold Story
+. Harper Collins.
+ISBN
+978-0-06-221811-7
+.
+O'Sullivan, Mike, ed. (2015).
+Secret Wars: Official Guide to the Marvel Multiverse
+. Marvel Comics.
+O'Sullivan, Mike, ed. (2016).
+All-New, All-Different Marvel Universe
+. Marvel Comics.
+Mills, Anthony (2013).
+American Theology, Superhero Comics, and Cinema: The Marvel of Stan Lee and the Revolution of a Genre
+. Routledge.
+ISBN
+978-1-135-01437-7
+.
+Pedersen, Isabel; Simcoe, Luke (May 5, 2012).
+"The iron man phenomenon, participatory culture, & future augmented reality technologies"
+.
+CHI '12 Extended Abstracts on Human Factors in Computing Systems
+. ACM. pp. 291–300.
+doi
+:
+10.1145/2212776.2212807
+.
+ISBN
+978-1-4503-1016-1
+.
+S2CID
+14161327
+.
+Archived
+from the original on September 5, 2023
+. Retrieved
+September 5,
+2023
+.
+Ridout, Cefn (1992). "Introduction".
+The Many Armors of Iron Man
+. Marvel Comics. pp. 4–9.
+ISBN
+0-87135-926-X
+.
+Wright, Bradford W. (2001).
+Comic Book Nation: The Transformation of Youth Culture in America
+. JHU Press.
+ISBN
+978-0-8018-6514-5
+.
+Yockey, Matt (2017).
+Make Ours Marvel: Media Convergence and a Comics Universe
+. University of Texas Press.
+ISBN
+978-1-4773-1250-6
+.
+Minett, Mark; Schauer, Bradley. "Reforming the 'Justice' System". In
+Yockey (2017)
+.
+Overpeck, Deron. "Breaking Brand". In
+Yockey (2017)
+.
+Zehr, E. Paul (2011).
+Inventing Iron Man: The Possibility of a Human Machine
+. JHU Press.
+ISBN
+978-1-4214-0488-2
+.
+Journals
+Genter, Robert (2007). "
+'With Great Power Comes Great Responsibility:' Cold War Culture and the Birth of Marvel Comics".
+The Journal of Popular Culture
+. Hoboken, New Jersey:
+Wiley-Blackwell
+.
+40
+(6): 953–978.
+doi
+:
+10.1111/j.1540-5931.2007.00480.x
+.
+Hogan, Jon (2009).
+"The Comic Book as Symbolic Environment: The Case of Iron Man"
+.
+ETC: A Review of General Semantics
+.
+66
+(2): 199–214.
+ISSN
+0014-164X
+.
+JSTOR
+42578930
+.
+Further reading
+Tom DeFalco,
+Avengers: The Ultimate Guide
+, Dorling Kindersley, 2005.
+ISBN
+978-0-7566-1461-4
+Mark D. White (ed.),
+Iron Man and Philosophy: Facing the Stark Reality
+, Wiley-Blackwell, 2010.
+ISBN
+978-0-4704-8218-6
+External links
+.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}
+Wikiquote has quotations related to
+Iron Man (comics)
+.
+Iron Man
+at the Marvel Universe wiki
+Iron Man (Tony Stark)
+at the Comic Book DB (archived from
+the original
+)
+"Stark Reality: A Different Hero for Different Times" by Ian Chant
+– PopMatters.com
+Advanced Iron
+(fanzine)
+Iron Man Library
+Archived
+December 23, 2018, at the
+Wayback Machine
+Tony Stark
+on
+Marvel Database
+, a
+Marvel Comics
+wiki
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}
+v
+t
+e
+Iron Man
+Don Heck
+Stan Lee
+Larry Lieber
+Jack Kirby
+Characters
+Iron Man family
+Iron Man
+Rescue
+War Machine
+Doctor Doom
+Ironheart
+Supporting
+Black Widow
+Bethany Cabe
+Captain America
+Fantastic Four
+Force
+F.R.I.D.A.Y.
+Nick Fury
+Guardsman
+Maria Hill
+Happy Hogan
+Hawkeye
+Hulk
+J.A.R.V.I.S.
+Edwin Jarvis
+Pepper Potts
+Spider-Man
+Arno Stark
+Howard Stark
+Maria Stark
+Teen Abomination
+Thor
+Mary Jane Watson
+Wolverine
+X-Men
+Ho Yinsen
+Teams
+Avengers
+New
+Mighty
+Force Works
+Guardians of the Galaxy
+Illuminati
+S.H.I.E.L.D.
+Antagonists
+Main enemies
+Black Knight
+Blizzard
+Controller
+Crimson Dynamo
+Fin Fang Foom
+Firebrand
+Ghost
+Justin Hammer
+Iron Monger
+Aldrich Killian
+Living Laser
+Madame Masque
+Mandarin
+Melter
+MODOK
+Raiders
+Spymaster
+Zeke Stane
+Titanium Man
+Ultimo
+Unicorn
+Whiplash
+Groups
+A.I.M
+Ani-Men
+Hydra
+Maggia
+Roxxon
+Ten Rings
+Other enemies
+Arsenal
+Sunset Bain
+Beetle
+Blood Brothers
+Boomerang
+Brothers Grimm
+Chemistro
+Edwin Cord
+Count Nefaria
+Crimson Cowl
+Crusher
+Detroit Steel
+Kearson DeWitt
+Diablo
+Doctor Doom
+Dreadknight
+Firepower
+Fixer
+Flying Tiger
+Gladiator
+Grey Gargoyle
+Griffin
+Guardsman
+Kala
+Lucifer
+Magma
+Man-Bull
+Mauler
+Midas
+Nitro
+Norman Osborn
+Radioactive Man
+Scarecrow
+Shockwave
+Morgan Stark
+Stilt-Man
+Super-Adaptoid
+Sunturion
+Technovore
+Teen Abomination
+Ultron
+Unicorn
+Whirlwind
+Wong-Chu
+Comic books
+Iron Man and Sub-Mariner
+Iron Man
+Enter the Mandarin
+Infamous Iron Man
+The Invincible Iron Man
+Iron Man vs. Whiplash
+Storylines
+"
+Demon in a Bottle
+"
+"
+Doomquest
+"
+"
+Armor Wars
+"
+"
+Extremis
+"
+"
+Civil War
+"
+"
+Civil War II
+"
+"
+Iron Man 2020
+"
+"
+Contest of Chaos
+"
+Ultimate Marvel
+series
+Ultimate Iron Man
+Ultimate Human
+Ultimate Comics: Armor Wars
+Ultimate Comics: Iron Man
+In other media
+Films
+Marvel Cinematic Universe
+Tony Stark / Iron Man
+armor
+Iron Man
+soundtrack
+Iron Man 2
+soundtrack
+Iron Man 3
+soundtrack
+Marvel Animated Features
+Iron Man: Rise of Technovore
+Television
+The Marvel Super Heroes
+Iron Man
+episodes
+Iron Man: Armored Adventures
+episodes
+Iron Man
+episodes
+Video games
+Iron Man / X-O Manowar in Heavy Metal
+The Invincible Iron Man
+Iron Man
+Iron Man 2
+Iron Man 3
+Iron Man VR
+Attractions
+Iron Man Experience
+Alternate versions
+Iron Man 2020
+Ultimate Iron Man
+Locations
+Stark Mansion
+Stark Tower
+Armors
+Iron Spider
+Iron Legion
+Iron Patriot
+Related articles
+Iron Lad
+Stark Industries
+Iron Man: The Armored Avenger
+War Machine in other media
+James Rhodes (Marvel Cinematic Universe)
+Category
+v
+t
+e
+Avengers
+characters
+Founding
+members
+Ant-Man
+(Hank Pym)
+Captain America
+Hulk
+Iron Man
+Thor
+Wasp
+(Janet van Dyne)
+Recurring
+members
+3-D Man
+Agent Venom
+Ant-Man
+Scott Lang
+Eric O'Grady
+Ares
+Beast
+Black Knight
+Black Panther
+Black Widow
+Claire Voyant
+Natasha Romanova
+Blade
+Blue Marvel
+Brother Voodoo
+Cable
+Cannonball
+Captain Britain
+Brian Braddock
+Kelsey Leigh Kirkland
+Captain Marvel
+Monica Rambeau
+Carol Danvers
+Crystal
+Daredevil
+Deadpool
+Doctor Druid
+Doctor Strange
+Echo
+Falcon
+Fantastic Four
+Mr. Fantastic
+Invisible Woman
+Human Torch
+Thing
+Firebird
+Firestar
+Ghost Rider
+(Robbie Reyes)
+Gilgamesh
+Hawkeye
+Clint Barton
+Kate Bishop
+Hellcat
+Hercules
+Human Torch
+Iron Fist
+Jack of Hearts
+Jocasta
+Justice
+Kaluu
+Luke Cage
+Manifold
+Mantis
+Mockingbird
+Moondragon
+Moon Knight
+Ms. Marvel
+Namor
+Namora
+Nebula
+Nova
+Richard Rider
+Sam Alexander
+Protector
+Quake
+Quasar
+Quicksilver
+Red Hulk
+Rogue
+Scarlet Witch
+Sentry
+Sersi
+Shang-Chi
+She-Hulk
+Spider-Man
+Peter Parker
+Miles Morales
+Spider-Woman
+Jessica Drew
+Julia Carpenter
+Starfox
+Stingray
+Storm
+Sunspot
+Swordsman
+Thor
+(Jane Foster)
+Tigra
+Thunderstrike
+U.S. Agent
+Valkyrie
+Vision
+War Machine
+Wasp
+(Nadia van Dyne)
+Winter Soldier
+White Tiger
+Wolverine
+Wonder Man
+Other
+characters
+Supporting
+characters
+Agent 13
+Asgardians
+Balder the Brave
+Eitri
+Frigga
+Heimdall
+Lady Sif
+Odin
+Warriors Three
+Fandral
+Hogun
+Volstagg
+Aunt May
+Ben Urich
+Beta Ray Bill
+Betty Ross
+Daily Bugle
+Betty Brant
+J. Jonah Jameson
+Doc Samson
+Dora Milaje
+Nakia
+Okoye
+Edwin Jarvis
+Erik Selvig
+Fabian Stankowicz
+Guardsman
+Happy Hogan
+H.E.R.B.I.E.
+John Jameson
+Marrina Smallwood
+Mary Jane Watson
+Pepper Potts
+Rick Jones
+Shuri
+Wong
+Allies
+Alpha Flight
+Champions
+The Challenger
+Citizen V
+Defenders
+Eternals
+Ajak
+Druig
+Gilgamesh
+Ikaris
+Kingo Sunen
+Makkari
+Phastos
+Sersi
+Sprite
+Thena
+Fantastic Four
+Mr. Fantastic
+Invisible Woman
+Human Torch
+Thing
+Guardians of the Galaxy
+Drax the Destroyer
+Gamora
+Groot
+Mantis
+Nebula
+Rocket Raccoon
+Star-Lord
+Inhumans
+Black Bolt
+Gorgon
+Karnak
+Lockjaw
+Medusa
+Triton
+Jessica Jones
+Mar-Vell
+Midnight Sons
+Elsa Bloodstone
+Morbius, the Living Vampire
+Werewolf by Night
+New Warriors
+Red Raven
+S.H.I.E.L.D.
+Maria Hill
+Nick Fury
+Phil Coulson
+Silver Surfer
+Thunderbolts
+Atlas
+Fixer
+Ghost
+MACH-I
+Moonstone
+Songbird
+Uatu
+the
+Watcher
+Ultraforce
+Prime
+The Whizzer
+Robert Frank
+The Witness
+X-Men
+Angel
+Banshee
+Beast
+Colossus
+Cyclops
+Gambit
+Havok
+Iceman
+Jean Grey
+(Phoenix)
+Jubilee
+Kitty Pryde
+Nightcrawler
+Professor X
+Rogue
+Storm
+Wolverine
+Neutral allies
+Elektra
+Ghost Rider
+(Johnny Blaze)
+Henry Peter Gyrich
+Punisher
+Ronin
+Sandman
+Squadron Supreme
+Hyperion
+Thunderbolt Ross
+Venom
+Yelena Belova
+Enemies
+Central
+rogues
+Baron Zemo
+Heinrich Zemo
+Helmut Zemo
+Blood Brothers
+Collector
+Count Nefaria
+Doctor Doom
+Dracula
+Enchantress
+Galactus
+Grandmaster
+Graviton
+Green Goblin
+Norman Osborn
+Grim Reaper
+High Evolutionary
+Hood
+Immortus
+Kang the Conqueror
+Loki
+Magneto
+Mephisto
+MODOK
+Onslaught
+Radioactive Man
+Red Skull
+Super-Adaptoid
+Super-Skrull
+Taskmaster
+Thanos
+Ultron
+Other
+supervillains
+Annihilus
+Ares
+Arkon
+Attuma
+Baron Strucker
+Beyonder
+Carnage
+Crossbones
+Doctor Octopus
+Egghead
+Ghaur
+Grey Gargoyle
+Griffin
+Klaw
+Knull
+Korvac
+Leader
+Mandarin
+Master Pandemonium
+Maximus
+Morgan le Fay
+Powderkeg
+Ravonna
+Whirlwind
+Organizations
+A.I.M.
+Black Order
+Brotherhood of Mutants
+Chitauri
+Dark Avengers
+Enclave
+Frightful Four
+H.A.M.M.E.R.
+The Hand
+Hydra
+Kree
+Legion of the Unliving
+Lethal Legion
+Maggia
+Masters of Evil
+Mindless Ones
+Secret Empire
+Serpent Society
+Sinister Six
+Skrulls
+Sons of the Serpent
+Squadron Sinister
+Symbiotes
+U-Foes
+Wrecking Crew
+Zodiac
+Alternative
+versions
+Alternate versions
+of the Avengers
+A-Force
+A-Next
+Agents of Atlas
+Avengers A.I.
+Avengers Academy
+Dark Avengers
+Force Works
+Great Lakes Avengers
+Mighty Avengers
+New Avengers
+Members
+Secret Avengers
+Ultimates
+Members
+Uncanny Avengers
+U.S.Avengers
+West Coast Avengers
+Members
+Young Avengers
+Marvel Cinematic
+Universe
+Bruce Banner
+Clint Barton
+Carol Danvers
+Nick Fury
+J.A.R.V.I.S.
+Scott Lang
+Wanda Maximoff
+Nebula
+Peter Parker
+James Rhodes
+Rocket
+Natasha Romanoff
+Steve Rogers
+Xu Shang-Chi
+Tony Stark
+Thor
+Vision
+Sam Wilson
+Others
+Captain America
+Hulk
+Iron Man
+Thor
+Category
+Related topics
+v
+t
+e
+New Avengers
+Brian Michael Bendis
+David Finch
+Founding members
+Luke Cage
+Captain America
+Echo
+Iron Man
+Sentry
+Spider-Man
+Spider-Woman
+Wolverine
+Later members
+Bucky Barnes
+Daredevil
+Doctor Strange
+Iron Fist
+Iron Man
+Jessica Jones
+Mockingbird
+Thing
+War Machine
+Enemies
+A.I.M.
+Yelena Belova
+Collective
+Crimson Cowl (Justine Hammer)
+Dark Avengers
+Doctor Doom
+H.A.M.M.E.R.
+Hand
+Hood
+Hydra
+Madame Masque
+Norman Osborn
+Sauron
+Savage Land Mutates
+Skrulls
+Super-Skrull
+Thunderbolts
+U-Foes
+Wrecker
+Headquarters
+Stark Tower
+Sanctum Sanctorum
+Avengers Mansion
+S.H.I.E.L.D.
+Storylines
+Avengers Disassembled
+House of M
+Civil War
+Fallen Son: The Death of Captain America
+World War Hulk
+Avengers/Invaders
+Secret Invasion
+Dark Reign
+Siege
+Heroic Age
+Fear Itself
+Avengers vs. X-Men
+Infinity
+Related series
+Avengers
+Mighty Avengers
+Dark Avengers
+Avengers: The Initiative
+New Avengers: Illuminati
+New Avengers/Transformers
+Secret Avengers
+Secret War
+Young Avengers
+Related articles
+Victoria Hand
+S.H.I.E.L.D.
+Superhuman Registration Act
+v
+t
+e
+Mighty Avengers
+Brian Michael Bendis
+Frank Cho
+Dan Slott
+Initial members
+Ares
+Black Widow
+Iron Man
+Ms. Marvel
+The Sentry
+Vision
+Wasp
+Wonder Man
+Enemies
+Doctor Doom
+Modred the Mystic
+Mole Man
+Norman Osborn
+Skrulls
+Symbiotes
+Ultron
+Storylines
+Civil War
+The Initiative
+Secret Invasion
+Dark Reign
+Siege
+Related series
+Avengers
+Avengers: The Initiative
+New Avengers
+Dark Avengers
+v
+t
+e
+Nick Fury
+Stan Lee
+Jack Kirby
+Characters
+Supporting
+Nick Fury Jr.
+Mikel Fury
+Jake Fury
+Monica Chang-Fury
+Valentina Allegra de Fontaine
+Dum Dum Dugan
+Gabe Jones
+Rebel Ralston
+Junior Juniper
+Pinky Pinkerton
+Eric Koenig
+Punisher
+Happy Sam Sawyer
+Sharon Carter
+Jasper Sitwell
+Maria Hill
+Iron Man
+Captain America
+Bucky Barnes
+Black Widow
+Hawkeye
+Wolverine
+Clay Quartermain
+Falcon
+Mockingbird
+Avengers
+Enemies
+A.I.M.
+Baron Strucker
+Baron Zemo
+Heinrich Zemo
+Helmut Zemo
+Centurius
+Fixer
+Hate-Monger
+Hydra
+Madame Hydra
+Viper
+Mentallo
+Mitchell Carson
+Red Skull
+Scorpio
+Super-Patriot
+Werner von Strucker
+Teams
+Howling Commandos
+S.H.I.E.L.D.
+Team White
+Comics
+Ongoing
+Sgt. Fury and his Howling Commandos
+Nick Fury, Agent of S.H.I.E.L.D.
+1965 feature
+Secret Warriors
+Nick Fury's Howling Commandos
+Nick Fury
+Miniseries
+and storylines
+Nick Fury vs. S.H.I.E.L.D.
+Fury of S.H.I.E.L.D.
+Fury/Agent 13
+Ennis
+Fury
+(2001)
+Fury: Peacemaker
+Fury: My War Gone By
+Avengers 1959
+Battle Scars
+"
+Nick Fury, Agent of Nothing
+"
+Original Sin
+Fury's Big Week
+Graphic novels
+and one-shots
+Fury
+(1994)
+Fury: S.H.I.E.L.D. 50th Anniversary
+Wolverine/Nick Fury
+The Scorpio Connection
+Bloody Choices
+Scorpio Rising
+"
+Nick's World
+"
+Fury/Black Widow: Death Duty
+Captain America and Nick Fury: Blood Truce
+Captain America and Nick Fury: The Otherworld War
+Sgt. Fury & his Howling Commandos: Shotgun Opera
+Fury
+(2023)
+In other media
+Nick Fury: Agent of S.H.I.E.L.D.
+Nick Fury, Agent of S.H.I.E.L.D.: Empyre
+"
+For Your Eye Only
+"
+Nick Fury (Marvel Cinematic Universe)
+Related
+Life Model Decoy
+Dirk Anger
+Jim Steranko
+Strange Tales
+Ultimate Nick Fury
+Category
+v
+t
+e
+S.H.I.E.L.D.
+Stan Lee
+Jack Kirby
+Characters
+Directors
+George W. Bridge
+Sharon Carter
+Timothy Dugan
+Nick Fury
+Maria Hill
+Daisy Johnson
+Norman Osborn
+Steve Rogers
+Tony Stark
+Rick Stoner
+Monica Chang
+Field Agents
+Clay Quartermain
+Victoria Hand
+Jasper Sitwell
+Al MacKenzie
+Mitch Carson
+Valentina Allegra de Fontaine
+Jessica Drew
+Clint Barton
+Natasha Romanova (Natasha Romanoff)
+Bobbi Morse
+Sam Wilson
+Jimmy Woo
+Alexander Pierce
+John Garrett
+Nick Fury Jr.
+Antagonists
+A.I.M.
+Baron Strucker
+Baron Zemo
+Crossbones
+Doctor Doom
+Fixer
+H.A.M.M.E.R.
+Hydra
+Leviathan
+Loki
+Maggia
+Magneto
+Masters of Evil
+Mentallo
+Mys-Tech
+Norman Osborn
+Red Skull
+Secret Empire
+Skrulls
+Ultron
+Zodiac
+Affiliations
+Avengers
+New
+Dark
+Mighty
+Secret
+Howling Commandos
+Project Livewire
+Team White (Secret Warriors)
+S.T.R.I.K.E.
+S.T.A.K.E.
+S.W.O.R.D.
+Bases and facilities
+Helicarrier
+Stark Tower
+The Vault
+Technology and units
+Life Model Decoy
+Mandroid
+Red Ronin
+Superhuman Restraint Unit
+Iron Patriot
+S.H.I.E.L.D. Flying Car
+Publications
+Nick Fury, Agent of S.H.I.E.L.D.
+1965 feature
+Nick Fury vs. S.H.I.E.L.D.
+Fury of S.H.I.E.L.D.
+Kitty Pryde, Agent of S.H.I.E.L.D.
+S.H.I.E.L.D.
+2010 series
+2014 series
+Howling Commandos of S.H.I.E.L.D.
+Agent Carter: S.H.I.E.L.D. 50th Anniversary
+Fury: S.H.I.E.L.D. 50th Anniversary
+Agents of S.H.I.E.L.D.
+In other media
+Marvel Cinematic
+Universe
+Item 47
+Agents of S.H.I.E.L.D.
+characters
+Phil Coulson
+Leo Fitz
+Nick Fury
+Daisy Johnson
+Melinda May
+Jemma Simmons
+Daniel Sousa
+Grant Ward
+episodes
+season 1
+2
+3
+4
+5
+6
+7
+web series
+Slingshot
+Most Wanted
+Other
+Nick Fury: Agent of S.H.I.E.L.D.
+Nick Fury, Agent of S.H.I.E.L.D.: Empyre
+Related
+Ultimate Nick Fury
+Ultimate Captain America
+Peggy Carter
+Howard Stark
+Category
+v
+t
+e
+Spider-Man
+characters
+Spider-Man family
+By secret identity
+Spider-Man
+Spider-Woman
+Scarlet Spider
+Spider-Girl
+By public identity
+Peter Parker
+Ben Reilly
+Jessica Drew
+Julia Carpenter
+Miguel O'Hara
+Mayday Parker
+Kaine Parker
+Mattie Franklin
+Anya Corazon
+Mac Gargan
+Ashley Barton
+Miles Morales
+Otto Octavius (Superior Spider-Man)
+Cindy Moon
+Gwen Stacy
+Supporting characters
+Main support
+Liz Allan
+Aunt May
+Betty Brant
+Eddie Brock
+Black Cat/Felicia Hardy
+Cardiac
+Curt Connors
+Carlie Cooper
+Jean DeWolff
+Glory Grant
+J. Jonah Jameson
+John Jameson
+Ned Leeds
+Madame Web
+Harry Osborn
+Mary Parker
+Richard Parker
+Teresa Parker
+Randy Robertson
+Robbie Robertson
+George Stacy
+Gwen Stacy
+Flash Thompson
+Uncle Ben
+Ben Urich
+Mary Jane Watson
+Other
+Sally Avril
+Martha Connors
+Billy Connors
+Jefferson Davis
+Ethan Edwards
+Ezekiel
+Anne Weying
+Vanessa Fisk
+Vin Gonzales
+Walter Hardy
+Ashley Kafka
+Jackpot
+Anna Maria Marconi
+Kenny McFarlane
+Max Modell
+Nightwatch
+Normie Osborn
+Gwen Poole
+Solo
+Sarah Stacy
+Steel Spider
+Debra Whitman
+Wraith/Yuri Watanabe
+Neutral characters
+Anti-Venom
+Beetle
+Abner Jenkins
+Black Cat
+Boomerang
+Cardiac
+Deadpool
+Gibbon
+Green Goblin
+Harry Osborn
+Hybrid
+Kraven the Hunter
+Living Brain
+Lizard/Dr. Curt Connors
+Mania
+Molten Man
+Morbius the Living Vampire
+Prowler
+Puma
+Punisher
+Razorback
+Rocket Racer
+Sandman
+Scorn
+Silver Sable
+Toxin
+Venom
+Eddie Brock
+Flash Thompson
+Superhero
+allies
+Avengers
+Black Widow
+Captain America
+Carol Danvers
+Daredevil
+Deadpool
+Doctor Strange
+Cloak and Dagger
+Fantastic Four
+Mister Fantastic
+Invisible Woman
+Human Torch
+Thing
+Firestar
+Ghost Rider
+Johnny Blaze
+Danny Ketch
+Heroes for Hire
+Hulk
+Iceman
+Iron Fist
+Iron Man
+Luke Cage
+Moon Knight
+New Avengers
+Nick Fury
+Punisher
+S.H.I.E.L.D.
+Thor
+Wolverine
+X-Men
+Antagonists
+Central rogues
+gallery
+Black Cat
+Carnage
+Cletus Kasady
+Chameleon
+Doctor Octopus
+Electro
+Green Goblin
+Norman Osborn
+Hammerhead
+Hobgoblin
+Roderick Kingsley
+Hydro-Man
+Jackal
+Kingpin
+Kraven the Hunter
+Lizard
+Mister Negative
+Morbius the Living Vampire
+Mysterio
+Rhino
+Sandman
+Scorpion
+Shocker
+Tinkerer
+Tombstone
+Venom
+Eddie Brock
+Vulture
+Crime lords
+and mobsters
+Big Man
+Frederick Foswell
+Burglar
+Crime Master
+Enforcers
+Fancy Dan
+Montana
+Ox
+Man Mountain Marko
+Rose
+Richard Fisk
+Silvermane
+Scientists / inventors
+Jonas Harrow
+Alistair Smythe
+Spencer Smythe
+Farley Stillwell
+Mendel Stromm
+Other
+supervillains
+Agony
+Beetle
+Abner Jenkins
+Janice Lincoln
+Big Wheel
+Black Tarantula
+Bloodshed
+Boomerang
+Bushwacker
+Calypso
+Carrion
+Cyclone
+Demogoblin
+Doppelganger
+Doctor Doom
+Foreigner
+Gibbon
+Gog
+Grey Goblin
+Grim Hunter
+Grizzly
+Hippo
+Human Fly
+Humbug
+Hunger
+Hypno-Hustler
+Jack O' Lantern
+Jason Macendale
+Kangaroo
+Knull
+Lasher
+Living Brain
+Lobo Brothers
+Looter
+Lady Octopus
+Man-Wolf
+Masked Marauder
+Massacre
+Mephisto
+Molten Man
+Morlun
+Overdrive
+Phage
+Riot
+Ringer
+Scarecrow
+Scorcher
+Scream
+Shathra
+Shriek
+Sin-Eater
+Slyde
+Speed Demon
+Spot
+Stegron the Dinosaur Man
+Stilt-Man
+Swarm
+Tarantula
+Taskmaster
+Tri-Sentinel
+Phil Urich
+Vermin
+Walrus
+White Rabbit
+Will o' the Wisp
+Groups / teams
+A.I.M.
+Circus of Crime
+Elementals
+Enforcers
+Femme Fatales
+Frightful Four
+Inheritors
+Life Foundation
+Maggia
+Savage Six
+Sinister Six
+List of members
+Sinister Syndicate
+Spider-Slayers
+List of Spider-Slayers
+Wrecking Crew
+Bulldozer
+Piledriver
+Thunderball
+Wrecker
+Zodiac
+Alternative versions
+Spider-Man
+Miles Morales
+Spider-Girl (Mayday Parker)
+Spider-UK
+Spider-Ham
+Spider-Man J
+Spider-Man 2099
+Spider-Man Noir
+Spider-Bitch
+Peni Parker
+Spider-Punk
+Marvel Mangaverse
+version
+Spider-Man (Pavitr Prabhakar)
+Spider-Woman (Gwen Stacy)
+Ultimate Marvel Spider-Man
+Spider-Woman
+Others
+Green Goblin
+Ultimate Marvel Green Goblin
+Kingpin
+Venom
+In other media
+Sam Raimi film series
+Peter Parker
+Mary Jane Watson
+Harry Osborn
+Norman Osborn
+Otto Octavius
+J. Jonah Jameson
+Marc Webb film series
+Peter Parker
+Gwen Stacy
+Marvel Cinematic Universe
+Peter Parker
+MJ
+J. Jonah Jameson
+Sony's Spider-Man Universe
+Eddie Brock and Venom
+Spider-Verse film series
+Gwen Stacy
+Other
+Takuya Yamashiro
+Firestar
+Gentleman
+Spider-Man
+(1994 TV series) characters
+Abraham Whistler
+The Spectacular Spider-Man
+characters
+Other topics
+Symbiotes
+Slingers
+Category
+v
+t
+e
+Fantastic Four
+Stan Lee
+Jack Kirby
+Members
+Original members
+Mister Fantastic
+Invisible Woman
+Human Torch
+Thing
+Notable recruits
+Ant-Man
+Black Panther
+Crystal
+Devil Dinosaur
+Ghost Rider
+Hulk
+Medusa
+Moon Girl
+Ms. Marvel/She-Thing
+Namorita
+Nova
+Power Man
+She-Hulk
+Spider-Man
+Storm
+Tigra
+Wolverine
+Supporting
+Supporting cast
+Agatha Harkness
+Alicia Masters
+Avengers
+Franklin Richards
+Franklin Storm
+H.E.R.B.I.E.
+Inhumans
+Black Bolt
+Medusa
+Karnak
+Gorgon
+Triton
+Crystal
+Lockjaw
+Lyja
+Namor
+Nathaniel Richards
+Silver Surfer
+Spider-Man
+Thundra
+Uatu
+the
+Watcher
+Valeria Richards
+Willie Lumpkin
+Wyatt Wingfoot
+X-Men
+Yancy Street Gang
+Superhero allies
+Ant-Man
+Hank Pym
+Scott Lang
+Avengers
+Black Panther
+Black Widow
+Captain America
+Daredevil
+Ghost Rider/Danny Ketch
+Hawkeye
+Hulk
+Iron Man
+Nick Fury
+S.H.I.E.L.D.
+Spider-Man
+Thor
+Wolverine
+X-Men
+Neutral
+Gladiator
+Namor
+Time Variance Authority
+Enemies
+Antagonists
+Annihilus
+Awesome Android
+Blastaar
+Brute
+Devos the Devastator
+Diablo
+Doctor Doom
+Ego the Living Planet
+Galactus
+Hate-Monger
+Impossible Man
+Kala
+Kang the Conqueror
+Klaw
+Kristoff Vernard
+Mad Thinker
+Maker
+Maximus
+Miracle Man
+Mole Man
+Molecule Man
+Nicholas Scratch
+Occulus
+Overmind
+Psycho-Man
+Puppet Master
+Red Ghost
+Ronan the Accuser
+Super-Skrull
+Supreme Intelligence
+Terrax
+Thanos
+Trapster
+Wizard
+Other supervillains
+Air-Walker
+Attuma
+Electro
+Firelord
+Graviton
+Hydro-Man
+Master Pandemonium
+Mephisto
+Paibok
+Sandman
+Sphinx
+Stardust
+Titania
+Organizations
+A.I.M.
+Black Order
+Celestials
+Chitauri
+Doombots
+Enclave
+Frightful Four
+Heralds of Galactus
+Hydra
+Kree
+Mindless Ones
+Salem's Seven
+Sinister Six
+Skrulls
+Wrecking Crew
+Locations
+Baxter Building
+Four Freedoms Plaza
+Latveria
+Negative Zone
+Subterranea
+Publications
+Current
+Fantastic Four
+Previous
+Fantastic Force
+FF
+Marvel Knights 4
+Marvel Two-in-One
+Super-Villain Team-Up
+The Thing
+Limited
+Fantastic Four: 1234
+Fantastic Four: The End
+Spider-Man and the Fantastic Four
+Other
+continuities
+Doom 2099
+Fantastic Five
+Fantastic Four: Unstable Molecules
+Fantastic Four 2099
+Marvel 1602: Fantastick Four
+Superman/Fantastic Four
+Ultimate Fantastic Four
+Storylines
+"
+The Galactus Trilogy
+"
+"
+This Man... This Monster!
+"
+"
+Days of Future Present
+"
+"
+Reckoning War
+"
+"
+Contest of Chaos
+"
+Alternate versions
+Invisible Woman
+The Thing
+Related articles
+Doctor Doom's Fearfall
+Fantastic Four Incorporated
+Fantastic Four in popular media
+Fantasticar
+Future Foundation
+Ultimate Fantastic Four story arcs
+Unstable molecules
+Category
+v
+t
+e
+The Hulk
+Stan Lee
+Jack Kirby
+Hulk family
+Hulk / Bruce Banner
+Immortal Hulk / Devil Hulk
+Guilt Hulk
+She-Hulk / Jennifer Walters
+Skaar
+Red Hulk
+Thunderbolt Ross
+Robert Maverick
+A-Bomb / Rick Jones
+She-Hulk / Lyra
+Hiro-Kala
+Red She-Hulk / Harpy / Red Harpy / Betty Ross
+Hulk / Brawn / Amadeus Cho
+Weapon H
+Supporting
+characters
+Alpha Flight
+Avengers
+Bereet
+Betty Ross
+Defenders
+Doc Samson
+Deadpool
+Elaine Banner
+Gamma Corps
+Glorian
+Jarella
+Jim Wilson
+Marlo Chandler
+Pantheon
+Rebecca Banner
+Red Hulk
+Thunderbolt Ross
+Robert Maverick
+Sasquatch
+Spider-Man
+Teen Brigade
+Warbound
+Caiera
+Elloe Kaifi
+Hiroim
+Korg
+Miek
+No-Name
+X-Men
+Superhero allies
+Alpha Flight
+Avengers
+Black Widow
+Captain America
+Defenders
+Doctor Strange
+Deadpool
+Fantastic Four
+Hawkeye
+Hercules
+Iron Man
+Namor
+Nick Fury
+Red Hulk
+Thunderbolt Ross
+Robert Maverick
+S.H.I.E.L.D.
+Silver Surfer
+Spider-Man
+Thor
+Valkyrie
+Wolverine
+X-Men
+Enemies
+Main enemies
+Abomination
+Absorbing Man
+Bi-Beast
+Gargoyle
+Glenn Talbot
+Glob
+Guilt Hulk
+(
+Brian Banner
+)
+Juggernaut
+Leader
+Madman
+Maestro
+Red Hulk
+Thunderbolt Ross
+Robert Maverick
+Rhino
+Ringmaster
+Wendigo
+Zzzax
+Group enemies
+A.I.M.
+Circus of Crime
+Enclave
+Femizons
+Hulkbusters
+Hydra
+Riot Squad
+Secret Empire
+Soviet Super-Soldiers
+Thunderbolts
+U-Foes
+Winter Guard
+Other enemies
+Arsenal
+Constrictor
+D'Spayre
+Devastator
+Devil Hulk
+Fin Fang Foom
+Flux
+Gog
+Gold Bug
+Gremlin
+Grey Gargoyle
+Guilt Hulk
+Hammer and Anvil
+It! The Living Colossus
+John Ryker
+Killer Shrike
+Klaatu
+Man-Bull
+Metal Master
+Minotaur
+Missing Link
+Mister Hyde
+MODOK
+Moonstone
+Psyklop
+Puffball Collective
+Ravage
+Shaper of Worlds
+Super-Adaptoid
+Neutral rivals
+Captain America
+Deathlok
+Doc Samson
+Femizons
+Thundra
+Giant-Man
+Hercules
+Glenn Talbot
+Hulkbuster suit
+(
+Iron Man
+)
+Namor
+Red Hulk
+Thunderbolt Ross
+Robert Maverick
+Sabra
+Sasquatch
+Scorpion
+Spider-Man
+Thing
+Thor
+Thunderbolts
+Wolverine
+Television
+Live action
+The Incredible Hulk
+(1977–1982)
+episodes
+soundtrack
+The Incredible Hulk Returns
+The Trial of the Incredible Hulk
+The Death of the Incredible Hulk
+She-Hulk: Attorney at Law
+Animation
+The Marvel Super Heroes
+(1966)
+The Incredible Hulk
+(1982–1983) (
+characters
+)
+The Incredible Hulk
+(1996–1997)
+Hulk and the Agents of S.M.A.S.H.
+(
+episodes
+)
+Films
+Live action
+Hulk
+(2003)
+The Incredible Hulk
+(2008)
+soundtrack
+Animation
+Marvel Animated Features
+Iron Man and Hulk: Heroes United
+Hulk: Where Monsters Dwell
+Video games
+Questprobe featuring The Hulk
+The Incredible Hulk
+(1994)
+The Pantheon Saga
+Hulk
+The Incredible Hulk
+(2003)
+Ultimate Destruction
+The Incredible Hulk
+(2008)
+Nintendo DS
+Titles
+The Incredible Hulk
+Hulk Comic
+The End
+The Manga
+Tales to Astonish
+The Rampaging Hulk
+5 Ronin
+Storylines
+"
+Planet Hulk
+"
+"
+World War Hulk
+"
+"
+Fall of the Hulks
+"
+"
+World War Hulks
+"
+Alternative versions
+Maestro
+Ultimate Hulk
+Marvel Cinematic Universe
+Hulk 2099
+Tyrone Cash
+Related articles
+The Incredible Hulk
+(comic strip)
+Hulk Hands
+The Incredible Hulk Coaster
+The Incredible Hulks
+Hulk Classics
+Hysterical strength
+Monsters
+Category
+v
+t
+e
+Wolverine
+Len Wein
+John Romita Sr.
+Teams
+X-Men
+Alpha Flight
+Avengers
+New
+Uncanny
+Fantastic Four
+S.H.I.E.L.D.
+Team X
+/
+Weapon X
+X-Force
+Secret Defenders
+Horsemen of Apocalypse
+X-Men
+allies
+Angel/Archangel
+Armor
+Banshee
+Beast
+Bishop
+Cable
+Colossus
+Cyclops
+Deadpool
+Emma Frost
+Forge
+Gambit
+Havok
+Iceman
+Jean Grey/Phoenix
+Jubilee
+Karma
+Kwannon
+Magneto
+Morph
+Mystique
+Namor
+Nightcrawler
+Polaris
+Professor X
+Kitty Pryde
+Psylocke
+Rogue
+Storm
+X-23
+Supporting
+characters
+Alpha Flight
+Heather Hudson (Vindicator)
+James Hudson (Guardian)
+Avengers
+Black Cat
+Black Widow
+Captain America
+Archie Corrigan
+Daken
+Agent Zero/Maverick
+Deadpool
+Elsie-Dee
+Jessica Drew
+Elektra
+Fantastic Four
+Feral
+Hawkeye
+Jimmy Hudson
+Hulk
+Iron Man
+Moon Knight
+Native
+Nick Fury
+Silver Fox
+Spider-Man
+Thor
+Weapon H
+John Wraith
+X-23
+X-Men
+(
+List
+)
+Mariko Yashida
+Yukio
+Enemies
+A.I.M.
+Agent Zero/Maverick
+Apocalypse
+Arnim Zola
+Bastion
+Bloodscream
+Bolivar Trask
+Brotherhood of Mutants
+Magneto
+Sabretooth
+Toad
+Mystique
+Juggernaut
+Blob
+Pyro
+Mastermind
+Avalanche
+Cameron Hodge
+Malcolm Colcord
+Collector
+Abraham Cornelius
+Cyber
+Genesis
+Gorgon
+Hand
+Hellfire Club
+Brent Jackson
+Juggernaut
+Lady Deathstrike
+Lord Dark Wind
+Lord Shingen
+Dog Logan
+Thomas Logan
+Maggia
+Magneto
+Mister Sinister
+Mister X
+Mojo
+Mystique
+Nitro
+Nuke
+Ogun
+Omega Red
+Phalanx
+Donald Pierce
+Professor Thorton
+Puma
+Reavers
+Romulus
+Roughouse
+Sabretooth
+Sauron
+Savage Land Mutates
+Sebastian Shaw
+Sentinels
+Shadow King
+Silver Samurai
+Kenuichio Harada
+Shin Harada
+Spiral
+Sapphire Styx
+Symbiotes
+Taskmaster
+Tiger Shark
+Matsu'o Tsurayaba
+Vermin
+Viper
+Wendigo
+Wild Child
+William Stryker
+Comic books
+5 Ronin
+Astonishing Spider-Man & Wolverine
+Elektra and Wolverine: The Redeemer
+Kitty Pryde and Wolverine
+Marvel Comics Presents
+"
+Weapon X
+"
+Origin
+Savage Wolverine
+Ultimate Wolverine vs. Hulk
+Wolverine
+Wolverine: Manifest Destiny
+Wolverine: Origins
+Wolverine: Snikt!
+Wolverine: The Best There Is
+Wolverine and the X-Men
+Wolverine and Deadpool
+Wolverine: Weapon X
+Death of Wolverine
+Wolverine/Nick Fury
+The Scorpio Connection
+Bloody Choices
+Scorpio Rising
+All-New Wolverine
+Hunt for Wolverine
+Predator vs. Wolverine
+Return of Wolverine
+X Lives of Wolverine and X Deaths of Wolverine
+Video games
+Wolverine
+Wolverine: Adamantium Rage
+X-Men: Wolverine's Rage
+X2: Wolverine's Revenge
+X-Men Origins: Wolverine
+Marvel's Wolverine
+In other media
+X-Men Origins: Wolverine
+soundtrack
+The Wolverine
+soundtrack
+Logan
+soundtrack
+Deadpool & Wolverine
+Wolverine and the X-Men
+Wolverine
+(podcast)
+Marvel's Wastelanders
+(podcast)
+Marvel Anime
+Alternative versions
+Ultimate Wolverine
+Old Man Logan
+Film Logan
+Related articles
+Weapon X
+Weapon Plus
+Madripoor
+Landau, Luckman, and Lake
+Category
+v
+t
+e
+X-Men
+characters
+Mutant
+Founding members
+Angel
+Beast
+Cyclops
+Iceman
+Jean Grey
+Professor X
+Other
+members
+Anole
+Armor
+Aurora
+Banshee
+Bishop
+Blindfold
+Blink
+Boom-Boom
+Box
+Cable
+Caliban
+Cannonball
+Chamber
+Changeling
+Cipher
+Cloak and Dagger
+Colossus
+Cypher
+Darwin
+Dazzler
+Deadpool
+Doctor Nemesis
+Domino
+Dust
+Elixir
+Emma Frost
+Fantomex
+Firestar
+Forge
+Frenzy
+Gambit
+Gentle
+Graymalkin
+Havok
+Hellion
+Hepzibah
+Hope
+Husk
+Ink
+Jubilee
+Karma
+Krakoa
+Lady Mastermind
+Lifeguard
+Lockheed
+Longshot
+M
+Maggott
+Magik
+Magma
+Magneto
+Marrow
+Mercury
+Meggan
+Mimic
+Moonstar
+Ms. Marvel (Kamala Khan)
+Mystique
+Namor
+Nightcrawler
+Northstar
+Omega Sentinel
+Pixie
+Polaris
+Psylocke
+Betsy Braddock
+Kwannon
+Prodigy
+Kitty Pryde
+Rockslide
+Rogue
+Sage
+Slipstream
+Spyke
+Stacy X
+Storm
+Rachel Summers
+Squidboy
+Sunfire
+Sunspot
+Surge
+Synch
+Tildie Soames
+Thunderbird (John Proudstar)
+Thunderbird (Neal Shaara)
+Trance
+Warlock
+Warpath
+Washout
+Wolfsbane
+Wolverine (Logan)
+X-23/Wolverine (Laura Kinney)
+X-Man
+Xavier Institute students and staff
+Kuan-Yi Xorn and Shen Xorn/Zorn
+Secondary teams
+Alpha Squadron
+Excalibur
+Fallen Angels
+Generation X
+Marauders
+Morlocks
+New Mutants
+X-Corporation
+X-Corps
+X-Factor
+X-Force
+X-Statix
+X-Terminators
+X.S.E.
+X-Treme Sanctions Executive
+Xavier's Security Enforcers
+Supporting characters
+Callisto
+Ka-Zar
+Senator Robert Kelly
+Layla Miller
+Legion
+Lilandra Neramani
+Quicksilver
+Shi'ar
+Scarlet Witch
+Starjammers
+Ch'od
+Corsair
+Korvus
+Raza Longknife
+Hepzibah
+Valerie Cooper
+Superhero allies
+Avengers
+Black Widow
+Hawkeye
+Hulk
+Iron Man
+Captain America
+Thor
+Ms. Marvel
+/
+Captain Marvel
+Carol Danvers
+Fantastic Four
+S.H.I.E.L.D.
+Nick Fury
+Spider-Man
+S.W.O.R.D.
+Antagonists
+Apocalypse
+Arcade
+Avalanche
+Azazel
+Bastion
+Belasco
+Black Tom Cassidy
+Blob
+Abraham Cornelius
+Fabian Cortez
+Graydon Creed
+Cyber
+Dark Beast
+Deathbird
+Demon Bear
+Doctor Doom
+Donald Pierce
+Exodus
+Trevor Fitzroy
+Emma Frost
+Galactus
+Henry Peter Gyrich
+Cameron Hodge
+High Evolutionary
+Holocaust
+Juggernaut
+Kang the Conqueror
+Kid Omega
+Senator Robert Kelly
+Krakoa
+Lady Deathstrike
+Steven Lang
+Leper Queen
+Living Monolith
+Magneto
+Master Mold
+Mastermind
+Moira MacTaggert
+Mesmero
+Mikhail Rasputin
+Mister Sinister
+Mojo
+Mystique
+N'astirh
+Nimrod
+Cassandra Nova
+Omega Red
+Omega Sentinel
+Onslaught
+Norman Osborn
+Phantazia
+Predator X
+Proteus
+Madelyne Pryor
+Pyro
+Ronan
+Sabretooth
+Saturnyne
+Sauron
+Selene
+Shadow King
+Sebastian Shaw
+Shinobi Shaw
+Siena Blaze
+Silver Samurai
+Kenuichio Harada
+Spiral
+Stryfe
+Jason Stryker
+William Stryker
+Thanos
+Toad
+Bolivar Trask
+Viper
+Vulcan
+Antagonistic teams
+A.I.M.
+Alliance of Evil
+Ani-Men
+Black Order
+Brood
+Brotherhood of Mutants
+Clan Akkaba
+Dark X-Men
+Externals
+Factor Three
+Fenris
+Freedom Force
+Hellfire Club
+Hellions
+Horsemen of Apocalypse
+Hounds
+Humanity's Last Stand
+Hydra
+Marauders
+Nasty Boys
+Neo
+Phalanx
+Purifiers
+Reavers
+Savage Land Mutates
+Sentinels
+Shadow-X
+U-Men
+Upstarts
+Weapon X
+Alternative versions
+Jimmy Hudson
+Magician
+Ultimate Wolverine
+In other media
+Apocalypse
+Betsy Braddock
+Cyclops
+Gambit
+Magneto
+film series
+Mystique
+Jean Grey
+film series
+Professor X
+film series
+Peter Maximoff
+Rogue
+Storm
+Wade Wilson
+Wolverine
+film series
+v
+t
+e
+Thor (Marvel Comics)
+Stan Lee
+Larry Lieber
+Jack Kirby
+Supporting
+characters
+Angela
+Avengers
+Uncanny
+Balder
+Beta Ray Bill
+Captain America
+Eitri
+Fantastic Four
+Freya
+Frigga
+Guardians of the Galaxy
+Heimdall
+Hugin and Munin
+Hulk
+Hrimhari
+Iron Man
+Kelda
+Jane Foster
+Marvel Cinematic Universe
+Loki
+Marvel Cinematic Universe
+Odin
+Olympians
+Hercules
+Zeus
+Sif
+Spider-Man
+Thor Girl
+Thunderstrike
+Tyr
+Valkyrior
+Valkyrie
+Warriors Three
+Fandral
+Hogun
+Volstagg
+Wolverine
+X-Men
+Antagonists
+Absorbing Man
+Amatsu-Mikaboshi
+Ares
+Bloodaxe
+Cobra
+Desak
+Destroyer
+Ego the Living Planet
+Enchanters Three
+Enchantress
+Executioner
+Firelord
+Gorr the God Butcher
+Grey Gargoyle
+Hela
+Laufey
+Loki
+Lorelei
+Malekith the Accursed
+Man-Beast
+Mangog
+Midgard Serpent
+Minotaur
+Mister Hyde
+Mongoose
+Radioactive Man
+Ragnarok
+Serpent
+Surtur
+Ulik
+Wrecking Crew
+Bulldozer
+Piledriver
+Thunderball
+Wrecker
+Ymir
+Zarrko
+Items
+Mjolnir
+Marvel Cinematic Universe
+Norn Stones
+Bibliography
+Journey into Mystery
+Thor: Blood Oath
+Thor: Son of Asgard
+Thor: Vikings
+Ultimate Comics: Thor
+War of the Realms
+In other media
+Television
+The Marvel Super Heroes
+The Incredible Hulk Returns
+Film
+Marvel Animated Features
+Thor
+soundtrack
+Thor: The Dark World
+soundtrack
+Team Thor
+Thor: Ragnarok
+soundtrack
+Thor: Love and Thunder
+soundtrack
+Video games
+Thor: God of Thunder
+Thor: Son of Asgard
+Motion comic
+Thor & Loki: Blood Brothers
+Alternative versions
+Ultimate Thor
+Marvel Cinematic Universe
+Thor Odinson
+Jane Foster
+Loki Laufeyson/Odinson
+Related
+Thor in Norse mythology
+Thor in comics
+Asgardians of the Galaxy
+Asgard
+Dwarves
+Elves
+Time Variance Authority
+Category
+v
+t
+e
+Captain America
+characters
+Incarnations of
+Captain America
+Steve Rogers
+William Nasland
+Jeffrey Mace
+William Burnside
+John Walker
+Isaiah Bradley
+Bucky Barnes
+Sam Wilson
+Supporting
+characters
+Bucky
+Bucky Barnes
+Jack Monroe
+Rick Jones
+Lemar Hoskins
+Rikki Barnes
+Primary
+Falcon
+Peggy Carter
+Sharon Carter
+Other
+Arnie Roth
+Betsy Ross
+Demolition Man
+Diamondback
+Jack Flag
+Nick Fury
+Superhero allies
+Black Widow
+Deathlok
+Fabian Stankowicz
+Fantastic Four
+Hawkeye
+Maria Hill
+Howling Commandos
+Hulk
+Iron Man
+Robert Maverick
+Namor
+Spider-Man
+Thunderbolt Ross
+Thor
+Wolverine
+X-Men
+Teams
+All-Winners Squad
+Avengers
+New
+Uncanny
+Secret
+Illuminati
+Invaders
+Secret Defenders
+S.H.I.E.L.D.
+Antagonists
+Primary rogues'
+gallery
+Arnim Zola
+Baron Strucker
+Baron Zemo
+Heinrich Zemo
+Helmut Zemo
+Batroc the Leaper
+Crossbones
+Doctor Faustus
+Flag-Smasher
+Grand Director
+Machinesmith
+Madame Hydra
+MODOK
+Red Skull
+Sin
+Winter Soldier
+Groups
+A.I.M.
+Femizons
+Hydra
+Maggia
+Roxxon Energy Corporation
+Secret Empire
+Serpent Society
+Serpent Squad
+Watchdogs
+Snake-themed
+Anaconda
+Asp
+Bushmaster
+Cobra
+Constrictor
+Copperhead
+Cottonmouth
+Death Adder
+Diamondback
+Eel
+Princess Python
+Puff Adder
+Rattler
+Rock Python
+Sidewinder
+Other
+Abomination
+Armadillo
+Baron Blood
+Blackwing
+Doughboy
+Dredmund the Druid
+Everyman
+Glenn Talbot
+Grey Gargoyle
+Hate-Monger
+Jack O'Lantern
+John Ryker
+Lady Deathstrike
+Leader
+Left-Winger
+Living Laser
+Aleksander Lukin
+Madman
+Mandarin
+Master Man
+Mister Hyde
+MODAM
+Mole Man
+Nefarius (Moonstone)
+Nightshade
+Nuke
+Porcupine
+Professor Power
+Scarecrow
+Scourge of the Underworld
+Sleeper
+Slug
+Taskmaster
+Teen Abomination
+Trapster
+Vermin
+Alternative versions
+In comics
+American Dream
+Nomad
+Ultimate Captain America
+In film
+Steve Rogers
+Sam Wilson
+Bucky Barnes
+Peggy Carter
+Sharon Carter
+v
+t
+e
+Black Widow
+Stan Lee
+Don Rico
+Don Heck
+Characters
+Claire Voyant
+Natasha Romanoff
+Yelena Belova
+Supporting characters
+Captain America
+Daredevil
+Hawkeye
+Hulk
+Iron Man
+Maria Hill
+Mockingbird
+Nick Fury
+Punisher
+Red Guardian
+Thor
+Winter Soldier
+Wolverine
+Teams
+Avengers
+Mighty
+Secret
+Champions
+Heroes for Hire
+Lady Liberators
+S.H.I.E.L.D.
+Thunderbolts
+Enemies
+A.I.M.
+Black Spectre
+Crimson Dynamo
+Damon Dran
+Femizons
+HYDRA
+Iron Maiden
+Taskmaster
+Viper (Madame Hydra)
+Publications
+Amazing Adventures
+Marvel Fanfare
+Fury/Black Widow: Death Duty
+The Twelve
+Widowmaker
+In other media
+Avengers Confidential: Black Widow & Punisher
+Natasha Romanoff (MCU)
+Iron Man 2
+The Avengers
+Captain America: The Winter Soldier
+Avengers: Age of Ultron
+Captain America: Civil War
+Avengers: Infinity War
+Avengers: Endgame
+Black Widow
+soundtrack
+Dottie Underwood (MCU)
+Agent Carter
+Yelena Belova (MCU)
+Black Widow
+soundtrack
+Hawkeye
+Thunderbolts
+Marvel's Wastelanders
+Alternative versions
+Monica Chang
+Ultimate Spider-Woman
+Category
+v
+t
+e
+Hawkeye
+Stan Lee
+Don Heck
+Hawkeyes
+Clint Barton
+Goliath
+Ronin
+Kate Bishop
+Barney Barton
+Bullseye
+Lady Bullseye
+Affiliations
+Avengers
+New
+Secret
+West Coast
+Young
+Cross Technological Enterprises
+Defenders
+S.H.I.E.L.D.
+Thunderbolts
+Supporting characters
+Black Widow
+Captain America
+Dominic Fortune
+Echo
+Hulk
+Iron Man
+Jeff the Land Shark
+Jessica Jones
+Mockingbird
+Patriot
+Scarlet Witch
+Stature
+Wolverine
+Enemies
+Baron Zemo
+Bullseye
+Circus of Crime
+Crossfire
+Death-Throws
+Oddball
+Kingpin
+Lady Bullseye
+Madame Masque
+Maggia
+Moonstone
+Phantom Rider
+Silencer
+Spider-Bitch
+Swordsman
+Trick Shot
+Publications
+Solo Avengers
+Hawkeye & Mockingbird
+Widowmaker
+Hawkeye: Blindspot
+In other media
+Marvel's Wastelanders: Hawkeye
+Hawkeye
+(TV series)
+Clint Barton (Marvel Cinematic Universe)
+Kate Bishop (Marvel Cinematic Universe)
+Related articles
+The Hawkeye Initiative
+Green Arrow
+v
+t
+e
+Jack Kirby
+Bibliography
+Marvel Comics
+2001: A Space Odyssey
+Absorbing Man
+Adam Warlock
+Agatha Harkness
+Alicia Masters
+Amazing Adventures
+Amphibion
+Annihilus
+Ant-Man
+/
+Giant-Man
+Hank Pym
+Arnim Zola
+Asgard
+Astonishing Tales
+Attuma
+Avengers
+Avengers Mansion
+Awesome Android
+Balder
+Baron Strucker
+Baron Zemo
+Heinrich Zemo
+Batroc the Leaper
+Baxter Building
+Betsy Ross
+Betty Ross
+Black Panther
+Blastaar
+Blob
+Boomerang
+Brother Tode
+Brotherhood of Mutants
+Bucky
+Bucky Barnes
+Burner
+Captain America
+shield
+Celestial
+Cerebro
+Circus of Crime
+Contemplator
+Cosmic Cube
+Crusaders
+Cyttorak
+Daily Bugle
+Danger Room
+Deviant
+Devil Dinosaur
+Destroyer
+Diablo
+Doctor Doom
+Doctor Druid
+Doctor Faustus
+Doughboy
+Dragon Man
+Dredmund the Druid
+Egghead
+Ego the Living Planet
+Enchantress
+Enclave
+Erik Josten
+Eternals
+Ajak
+Druig
+Forgotten One
+Ikaris
+Kingo Sunen
+Makkari
+Sersi
+Sprite
+Thena
+Zuras
+Executioner
+Fafnir
+Fantastic Four
+Human Torch
+Invisible Woman
+Mister Fantastic
+Thing
+Fenris Wolf
+Fin Fang Foom
+Fixer
+Forbush Man
+Franklin Richards
+Franklin Storm
+Frightful Four
+Galactus
+Giants
+Giganto
+Goom
+Gorgilla
+Grey Gargoyle
+Groot
+Growing Man
+H.E.R.B.I.E.
+Hate-Monger
+Heimdall
+Hela
+Helicarrier
+High Evolutionary
+Hippolyta
+Hulk
+Hulk Robot
+Human Cannonball
+HYDRA
+Immortus
+Impossible Man
+Inhumans
+Black Bolt
+Crystal
+Gorgon
+Karnak
+Lockjaw
+Maximus
+Medusa
+Triton
+Iron Man
+armor
+It! The Living Colossus
+Jane Foster
+Jasper Sitwell
+Journey into Mystery
+Juggernaut
+Ka-Zar
+Kala
+Kang the Conqueror
+Karkas
+Karnilla
+Klaw
+Krang
+Kree
+Ronan the Accuser
+Sentry
+Supreme Intelligence
+Kro
+Latveria
+Laufey
+Lifter
+Loki
+Lucifer
+Machine Man
+Mad Thinker
+Magneto
+Man-Beast
+Mangog
+Marvel Fireside Books
+Masters of Evil
+Mentallo
+Miracle Man
+MODOK
+Mole Man
+Molecule Man
+Monsteroso
+Moon-Boy
+Mastermind (Jason Wyngarde)
+Mutants
+Negative Zone
+New Men
+Nick Fury
+Norn Stones
+Odin
+Olympians
+Ares
+Artemis
+Athena
+Hera
+Hercules
+Hermes
+Pluto
+Zeus
+Orrgo
+Painter
+Peggy Carter
+Peepers
+Plunderer
+Power Broker
+Psycho-Man
+Puppet Master
+Quicksilver
+Radioactive Man
+Randall Darby
+Rawhide Kid
+Red Ghost
+Red Skull
+Resistants
+Rick Jones
+Ringmaster
+S.H.I.E.L.D.
+Savage Land
+Scarlet Witch
+Scorpion
+Secret Empire
+Sentinel
+Master Mold
+Bolivar Trask
+Sharon Carter
+Sif
+Silver Surfer
+Sgt. Fury and his Howling Commandos
+Dino Manelli
+Dum Dum Dugan
+Gabe Jones
+Happy Sam Sawyer
+Howling Commandos
+Izzy Cohen
+Junior Juniper
+Pinky Pinkerton
+Rebel Ralston
+Skrull
+Dorrek VII
+Morrat
+Super-Skrull
+Sleeper
+Slither
+Stark Industries
+Stark Tower
+Tales of Suspense
+Tales to Astonish
+Stranger
+Subterranea
+Super-Adaptoid
+Surtur
+T'Chaka
+The Galactus Trilogy
+The Incredible Hulk
+This Man... This Monster!
+Thor
+Mjolnir
+Thunderbolt Ross
+Toad
+Trapster
+Tricephalous
+Trolls
+Tumbler
+Tutinax
+Two-Gun Kid
+Tyr
+Tyrannus
+Ulik
+Ultimate Nullifier
+Uncanny X-Men
+Uni-Mind
+Unicorn
+Unus the Untouchable
+Vanisher
+Vision (Timely Comics)
+Volla
+Wakanda
+Warriors Three
+Fandral
+Hogun
+Volstagg
+Wasp
+Watchers
+Uatu
+Whirlwind
+Willie Lumpkin
+Wizard
+Wonder Man
+Wong-Chu
+Wrecker
+Wyatt Wingfoot
+X-Mansion
+X-Men
+Angel
+Beast
+Cyclops
+Iceman
+Marvel Girl
+Professor X
+Yancy Street Gang
+Ymir
+Young Allies
+Yuri Topolov
+Zabu
+Zarrko
+DC Comics
+1st Issue Special
+Agent Axis
+Anti-Life Equation
+Apokolips
+Darkseid
+DeSaad
+Devilance
+Doctor Bedlam
+Female Furies
+Bernadeth
+Lashina
+Mad Harriet
+Stompa
+Glorious Godfrey
+Granny Goodness
+Kalibak
+Kanto
+Mantis
+Parademons
+Steppenwolf
+Virman Vundabar
+Atlas
+Black Racer
+Boom tube
+Boy Commandos
+Bruno Mannheim
+Challengers of the Unknown
+Ace Morgan
+Red Ryan
+Crazy Quilt
+Dan Turpin
+Dingbats of Danger Street
+Dubbilex
+Etrigan the Demon
+Fourth World
+Funky Flashman
+Global Peace Agency
+OMAC
+Guardian
+House of Secrets
+Infinity-Man
+Intergang
+Kamandi
+Klarion the Witch Boy
+Kobra
+Manhunter
+Paul Kirk
+Mark Shaw
+Manhunters
+Metron
+Morgan Edge
+Morgaine le Fey
+Mother Box
+Mr. Scarlet
+Newsboy Legion
+New Gods
+New Genesis
+Bekka
+Big Barda
+Forager
+Forever People
+Highfather
+Lightray
+Mister Miracle
+Orion
+Oberon
+Project Cadmus
+Sandman (Garrett Sanford)
+Shilo Norman
+Sonny Sumo
+Source
+Star Spangled Comics
+Superman's Pal Jimmy Olsen
+Super Powers
+Weird Mystery Tales
+Other
+Black Magic
+Boys' Ranch
+Captain 3-D
+Captain Victory and the Galactic Rangers
+Destroyer Duck
+The Double Life of Private Strong
+Fighting American
+The Fly
+Headline Comics (For The American Boy)
+Jack Kirby's Galactic Bounty Hunters
+Justice Traps the Guilty
+The Kirbyverse
+My Date Comics
+Our Fighting Forces
+Secret City Saga
+Silver Star
+Sky Masters
+Street Code
+Young Love
+Young Romance
+Television work
+Centurions
+Goldie Gold and Action Jack
+Mister T
+Thundarr the Barbarian
+Related articles
+Kirby Krackle
+Stan Lee
+Joe Simon
+Mainline Publications
+Kirby: Genesis
+Kirby: King of Comics
+Category
+v
+t
+e
+Stan Lee
+Media
+Titles
+Backstreet Project
+Heroes for Hope
+How to Draw Comics the Marvel Way
+Just Imagine...
+Marvel Fireside Books
+Sgt. Fury and his Howling Commandos
+Stan Lee's God Woke
+The Amazing Spider-Man
+The Incredible Hulk
+The Sensational Spider-Man
+Ultimo
+Uncanny X-Men
+Storylines
+"
+Astonishing Tales
+"
+"
+Epic Illustrated
+"
+"
+Marvel Super-Heroes
+"
+"
+Green Goblin Reborn!
+"
+"
+If This Be My Destiny...!
+"
+"
+Snafu
+"
+"
+Stan Lee Meets...
+"
+"
+The Galactus Trilogy
+"
+"
+The Six Arms Saga
+"
+"
+This Man... This Monster!
+"
+"
+Venus
+"
+Shows
+Heroman
+Stan Lee's Superhumans
+Stan Lee's World of Heroes
+Stan Lee's Lucky Man
+Stripperella
+The Reflection
+Who Wants to Be a Superhero?
+Who Wants to Be a Superhero?
+(U.K. TV series)
+Films
+The Comic Book Greats
+Stan Lee's Mutants, Monsters & Marvels
+The Condor
+Lightspeed
+Mosaic
+Related
+Joan Boocock Lee (wife)
+Larry Lieber (brother)
+List of cameos
+Stan Lee Foundation
+Stan Lee Media
+productions
+Stan Lee's LA Comic Con
+POW! Entertainment
+Created
+Characters
+Heroes
+Ant-Man
+/
+Giant-Man
+Hank Pym
+Bill Foster
+Avengers
+Black Knight
+Sir Percy
+Dane Whitman
+Black Panther
+Black Widow
+(
+Natasha Romanova
+)
+Blonde Phantom
+Brother Voodoo
+Captain Marvel
+Mar-Vell
+Linda Carter
+Millie Collins
+Daredevil
+Destroyer
+Doctor Druid
+Doctor Strange
+Falcon
+Fantastic Four
+Human Torch
+Invisible Woman
+Mister Fantastic
+Thing
+Forbush Man
+Frankenstein Monster
+Goliath
+Groot
+Guardians of the Galaxy
+Hawkeye
+Hercules
+Howling Commandos
+Izzy Cohen
+Dum Dum Dugan
+Nick Fury
+Gabe Jones
+Eric Koenig
+Rebel Ralston
+Junior Juniper
+Pinky Pinkerton
+Dino Manelli
+Hulk
+Inhumans
+Black Bolt
+Crystal
+Gorgon
+Karnak the Shatterer
+Lockjaw
+Medusa
+Triton
+Iron Man
+Ka-Zar
+Kid Colt
+Man-Thing
+Marvel Boy (Robert Grayson)
+Mimic
+Prowler
+Quicksilver
+Ravage 2099
+Rawhide Kid
+Scarlet Witch
+Sersi
+She-Hulk
+S.H.I.E.L.D.
+Spider-Man
+Stan Lee's Mighty 7
+Starborn
+Swordsman
+The Guardian Project
+Thor
+Two-Gun Kid
+Venus
+Vision
+Adam Warlock
+Wasp
+Witness
+Wonder Man
+X-Men
+Angel
+Beast
+Cyclops
+Iceman
+Jean Grey
+Professor X
+Yondu
+Zombie
+Villains
+Abomination
+Absorbing Man
+A.I.M.
+Air-Walker
+Amphibion
+Annihilus
+Ape-Man
+Ares
+Asbestos Man
+Attuma
+Awesome Android
+Baron Mordo
+Baron Strucker
+Baron Zemo
+Heinrich Zemo
+Batroc the Leaper
+Beetle
+Abner Jenkins
+Big Man
+Frederick Foswell
+Black Knight (Nathan Garrett)
+Blastaar
+Blizzard
+Blob
+Boomerang
+Brotherhood of Mutants
+Burglar
+Cat-Man
+Chameleon
+Circus of Crime
+Clown
+Cobra
+Collector
+Count Nefaria
+Crime Master
+Crimson Dynamo
+Cyttorak
+Death-Stalker
+Destroyer
+Diablo
+Doctor Doom
+Doctor Faustus
+Doctor Octopus
+Doombot
+Doomsday Man
+Dormammu
+Dorrek VII
+Dragon Man
+Dredmund the Druid
+Eel
+Egghead
+Ego the Living Planet
+Electro
+Emissaries of Evil
+Enchantress
+Enclave
+Enforcers
+Fancy Dan
+Montana
+Ox
+Executioner
+Fafnir
+Femizons
+Fenris Wolf
+Fin Fang Foom
+Fixer
+Richard Fisk
+Freak
+Frightful Four
+Funky Flashman
+Galactus
+Galaxy Master
+Gibbon
+Giganto
+Gladiator
+Gorgilla
+Green Goblin
+Norman Osborn
+Grey Gargoyle
+Grizzly
+Growing Man
+Hate-Monger
+Hela
+High Evolutionary
+Hippolyta
+Human Cannonball
+HYDRA
+Immortus
+Impossible Man
+Jackal
+Jester
+Erik Josten
+Juggernaut
+Kaecilius
+Kala
+Kaluu
+Kangaroo
+Kang the Conqueror
+Karnilla
+Kingpin
+Klaw
+Krang
+Kraven the Hunter
+Laufey
+Leader
+Leap-Frog
+Living Brain
+Living Laser
+Lizard
+Loki
+Looter/Meteor Man
+Lucifer
+Machinesmith
+Madame Masque
+Mad Thinker
+Maggia
+Magneto
+Man-Beast
+Mandarin
+Mangog
+Man Mountain Marko
+Masked Marauder
+Master Khan
+Mastermind
+Masters of Evil
+Matador
+Maximus
+Melter
+Mentallo
+Mephisto
+Merlin
+Metal Master
+Midgard Serpent
+Mimic
+Mindless Ones
+Miracle Man
+Mister Fear
+Mister Hyde
+MODOK
+Molecule Man
+Mole Man
+Molten Man
+Monsteroso
+Mordred
+Morgan le Fay
+Morrat
+Mother Night
+Mysterio
+Nightmare
+Overmind
+Owl
+Painter
+Plantman
+Plunderer
+Pluto
+Porcupine
+Princess Python
+Prowler
+Psycho-Man
+Purple Man
+Puppet Master
+Radioactive Man
+Ravonna
+Rattler
+Red Barbarian
+Red Ghost
+Rhino
+Ringmaster
+Ronan the Accuser
+Sandman
+Scarecrow
+Scorpion
+Secret Empire
+Sentinel
+Master Mold
+Bolivar Trask
+Sentry
+Shocker
+Silvermane
+Sinister Six
+Sleeper
+Sons of the Serpent
+Spencer Smythe
+Spider-Slayer
+Spymaster
+Farley Stillwell
+Stranger
+Mendel Stromm
+Strongman
+Super-Adaptoid
+Super-Skrull
+Surtur
+Swordsman
+Glenn Talbot
+Thunderbolt Ross
+Tiboro
+Tinkerer
+Titanium Man
+Toad
+Yuri Topolov
+Trapster
+Tricephalous
+Tumbler
+Tyrannus
+Ulik
+Ultimo
+Unicorn
+Unus the Untouchable
+Vanisher
+Vulture
+Whiplash
+Whirlwind
+Wizard
+Wong-Chu
+Wrecker
+Yon-Rogg
+Ymir
+Zarrko
+Supporting
+Liz Allan
+Ancient One
+Artemis
+Athena
+Aunt May
+Balder
+Sally Avril
+Betty Brant
+Peggy Carter
+Sharon Carter
+Clea
+Billy Connors
+Martha Connors
+Eternity
+Vanessa Fisk
+Jane Foster
+Frigga
+Goom
+Agatha Harkness
+Happy Hogan
+Happy Sam Sawyer
+Heimdall
+Hera
+H.E.R.B.I.E.
+Hermes
+J. Jonah Jameson
+John Jameson
+Edwin Jarvis
+Rick Jones
+Ned Leeds
+Living Tribunal
+Willie Lumpkin
+Alicia Masters
+Jack Murdock
+Foggy Nelson
+Neptune
+Harry Osborn
+Odin
+Karen Page
+Richard and Mary Parker
+Pepper Potts
+Redwing
+Franklin Richards
+Randy Robertson
+Robbie Robertson
+Betty Ross
+Shalla-Bal
+Sif
+Jasper Sitwell
+George Stacy
+Gwen Stacy
+Supreme Intelligence
+Franklin Storm
+T'Chaka
+Teen Brigade
+Flash Thompson
+Tyr
+Uatu
+Uncle Ben
+Anna Watson
+Mary Jane Watson
+Wong
+Wyatt Wingfoot
+Valkyrior
+Volla
+Warriors Three
+Fandral
+Hogun
+Volstagg
+Yancy Street Gang
+Ho Yinsen
+Zabu
+Zeus
+Species
+Asgardians
+Kree
+Giants
+Goblins
+Mutants
+New Men
+Olympians
+Skrulls
+Trolls
+Uranians
+Watchers
+Locations and
+businesses
+Asgard
+Avengers Mansion
+Baxter Building
+Daily Bugle
+Latveria
+Midtown High School
+Negative Zone
+Oscorp
+Sanctum Sanctorum
+Savage Land
+Stark Industries
+Stark Tower
+Subterranea
+Wakanda
+X-Mansion
+Objects
+Cerebro
+Cosmic Cube
+Eye of Agamotto
+Mjolnir
+Norn Stones
+Ultimate Nullifier
+Vibranium
+Category
+Authority control databases
+International
+FAST
+VIAF
+2
+3
+National
+Germany
+Israel
+United States
+Poland
+<img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;">
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Iron_Man&oldid=1211075473
+"
+Categories
+:
+Iron Man
+Avengers (comics) characters
+Characters created by Don Heck
+Characters created by Jack Kirby
+Characters created by Larry Lieber
+Characters created by Stan Lee
+Cold War in popular culture
+Comics characters introduced in 1963
+Cyborg superheroes
+Fictional alcohol abusers
+Fictional aerospace engineers
+Fictional arms dealers
+Fictional billionaires
+Fictional business executives
+Fictional characters from New York City
+Fictional electronic engineers
+Fictional inventors
+Fictional military strategists
+Fictional engineers
+Fictional roboticists
+Fictional socialites
+Fictional technopaths
+Iron Man characters
+Marvel Comics adapted into films
+Marvel Comics adapted into video games
+Marvel Comics American superheroes
+Marvel Comics businesspeople
+Marvel Comics cyborgs
+Marvel Comics film characters
+Marvel Comics male superheroes
+Marvel Comics scientists
+S.H.I.E.L.D. agents
+Superheroes who are adopted
+Fiction about telepresence
+Fictional hackers
+Fictional mechanics
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Good articles
+Wikipedia indefinitely semi-protected pages
+Use American English from March 2022
+All Wikipedia articles written in American English
+Use mdy dates from September 2023
+Character pop
+Converting comics character infoboxes
+Webarchive template wayback links
+Articles with FAST identifiers
+Articles with VIAF identifiers
+Articles with GND identifiers
+Articles with J9U identifiers
+Articles with LCCN identifiers
+Articles with PLWABN identifiers
+This page was last edited on 29 February 2024, at 18:47
+(UTC)
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike License 4.0
+;
+additional terms may apply.  By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5c64554744-n5c74","wgBackendResponseTime":185,"wgPageParseReport":{"limitreport":{"cputime":"2.066","walltime":"2.455","ppvisitednodes":{"value":20697,"limit":1000000},"postexpandincludesize":{"value":1124900,"limit":2097152},"templateargumentsize":{"value":302402,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":361909,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1676.667      1 -total"," 33.51%  561.811    235 Template:Sfn"," 16.32%  273.661     47 Template:Navbox"," 15.64%  262.313      1 Template:Reflist"," 11.27%  189.042     25 Template:Cite_web"," 11.16%  187.038      1 Template:Navboxes","  7.08%  118.749      2 Template:Short_description","  6.56%  109.952    252 Template:Main_other","  5.41%   90.765      1 Template:Iron_Man","  5.41%   90.722      4 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"1.056","limit":"10.000"},"limitreport-memusage":{"value":10877493,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFAdams2017\"] = 1,\n    [\"CITEREFAlaniz2015\"] = 1,\n    [\"CITEREFAshford2019\"] = 1,\n    [\"CITEREFAshford2020\"] = 1,\n    [\"CITEREFCartelli2018\"] = 1,\n    [\"CITEREFCartelli2019\"] = 1,\n    [\"CITEREFChambliss2015\"] = 1,\n    [\"CITEREFCoates2014\"] = 1,\n    [\"CITEREFCooleyRogers2015\"] = 1,\n    [\"CITEREFCrump2018\"] = 1,\n    [\"CITEREFDarowski,_John2015\"] = 1,\n    [\"CITEREFDarowski,_Joseph_J.2015\"] = 1,\n    [\"CITEREFDarowski2015\"] = 1,\n    [\"CITEREFFentiman2019\"] = 1,\n    [\"CITEREFFriedenthal2021\"] = 1,\n    [\"CITEREFGenter2007\"] = 1,\n    [\"CITEREFGilbert2008\"] = 1,\n    [\"CITEREFGoldman2013\"] = 1,\n    [\"CITEREFGood2022\"] = 1,\n    [\"CITEREFHarn2021\"] = 1,\n    [\"CITEREFHenebry2015\"] = 1,\n    [\"CITEREFHogan2009\"] = 1,\n    [\"CITEREFHoskin2010\"] = 1,\n    [\"CITEREFHowe2012\"] = 1,\n    [\"CITEREFIadonisi2015\"] = 1,\n    [\"CITEREFJohnson2014\"] = 1,\n    [\"CITEREFMcGuire2021\"] = 1,\n    [\"CITEREFMichálek2015\"] = 1,\n    [\"CITEREFMiller2019\"] = 1,\n    [\"CITEREFMills2013\"] = 1,\n    [\"CITEREFMinettSchauer2017\"] = 1,\n    [\"CITEREFMozzocco2013\"] = 1,\n    [\"CITEREFMulligan2015\"] = 1,\n    [\"CITEREFO\u0026#039;Sullivan2015\"] = 1,\n    [\"CITEREFO\u0026#039;Sullivan2016\"] = 1,\n    [\"CITEREFOverpeck2017\"] = 1,\n    [\"CITEREFPatton2015\"] = 1,\n    [\"CITEREFPedersenSimcoe2012\"] = 1,\n    [\"CITEREFPolo2020\"] = 1,\n    [\"CITEREFPolo2023\"] = 1,\n    [\"CITEREFRadulovicPoloWelshGoslin2020\"] = 1,\n    [\"CITEREFRidout1992\"] = 1,\n    [\"CITEREFRobinson2017\"] = 1,\n    [\"CITEREFSacks2015\"] = 1,\n    [\"CITEREFSchedeen2016\"] = 1,\n    [\"CITEREFSchedeen2018\"] = 1,\n    [\"CITEREFSchedeen2022\"] = 1,\n    [\"CITEREFStaley2017\"] = 1,\n    [\"CITEREFThis2015\"] = 1,\n    [\"CITEREFVohlidka2015\"] = 1,\n    [\"CITEREFWright2001\"] = 1,\n    [\"CITEREFYamato2008\"] = 1,\n    [\"CITEREFYockey2017\"] = 1,\n    [\"CITEREFZanco2015\"] = 1,\n    [\"CITEREFZehr2011\"] = 1,\n    [\"Iron_Hammer\"] = 1,\n    [\"Iron_Lantern\"] = 1,\n    [\"Iron_Man_2099\"] = 1,\n    [\"Lord_Iron\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"!\"] = 1,\n    [\"About\"] = 1,\n    [\"Anchor\"] = 4,\n    [\"Authority control\"] = 1,\n    [\"Avengers characters\"] = 1,\n    [\"Black Widow\"] = 1,\n    [\"Captain America characters\"] = 1,\n    [\"Cite book\"] = 15,\n    [\"Cite journal\"] = 2,\n    [\"Cite magazine\"] = 1,\n    [\"Cite web\"] = 25,\n    [\"Clear\"] = 1,\n    [\"Comicbookdb\"] = 1,\n    [\"Fantastic Four\"] = 1,\n    [\"Further\"] = 1,\n    [\"Good article\"] = 1,\n    [\"Harvc\"] = 16,\n    [\"Hawkeye\"] = 1,\n    [\"Hulk\"] = 1,\n    [\"ISBN\"] = 2,\n    [\"Infobox comics character\"] = 1,\n    [\"Iron Man\"] = 1,\n    [\"Jack Kirby\"] = 1,\n    [\"Main\"] = 4,\n    [\"Marveldatabase\"] = 1,\n    [\"Marvelwiki\"] = 1,\n    [\"Mighty Avengers\"] = 1,\n    [\"Multiple image\"] = 1,\n    [\"Navboxes\"] = 1,\n    [\"New Avengers\"] = 1,\n    [\"Nick Fury\"] = 1,\n    [\"Pp-semi-indef\"] = 1,\n    [\"Quote box\"] = 2,\n    [\"Redirect\"] = 1,\n    [\"Reflist\"] = 1,\n    [\"S.H.I.E.L.D.\"] = 1,\n    [\"See also\"] = 1,\n    [\"Sfn\"] = 235,\n    [\"Short description\"] = 1,\n    [\"Small\"] = 1,\n    [\"Spider-Man characters\"] = 1,\n    [\"Stan Lee\"] = 1,\n    [\"TOC limit\"] = 1,\n    [\"Thor\"] = 1,\n    [\"Ubl\"] = 3,\n    [\"Use American English\"] = 1,\n    [\"Use mdy dates\"] = 1,\n    [\"Webarchive\"] = 1,\n    [\"Wikiquote\"] = 1,\n    [\"Wolverine\"] = 1,\n    [\"X-Men characters\"] = 1,\n}\narticle_whitelist = table#1 {\n}\n","limitreport-profile":[["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::callParserFunction","380","35.2"],["?","180","16.7"],["recursiveClone \u003CmwInit.lua:41\u003E","160","14.8"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::getAllExpandedArguments","60","5.6"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::getExpandedArgument","40","3.7"],["is_generic \u003CModule:Citation/CS1:1492\u003E","40","3.7"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::uc","40","3.7"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::gsub","20","1.9"],["\u003CModule:Arguments:55\u003E","20","1.9"],["\u003Cmw.title.lua:349\u003E","20","1.9"],["[others]","120","11.1"]]},"cachereport":{"origin":"mw1420","timestamp":"20240304223411","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Iron Man","url":"https:\/\/en.wikipedia.org\/wiki\/Iron_Man","sameAs":"http:\/\/www.wikidata.org\/entity\/Q180704","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q180704","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-08-02T20:53:48Z","dateModified":"2024-02-29T18:47:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/47\/Iron_Man_%28circa_2018%29.png","headline":"fictional character in Marvel Comics"}

@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"cars_with_sql/model"
+	model "cars_with_sql/models"
 	"cars_with_sql/pkg"
 	"database/sql"
 	"fmt"
@@ -9,46 +9,74 @@ import (
 	"github.com/google/uuid"
 )
 
-type CustomerRepo struct {
+type customerRepo struct {
 	db *sql.DB
 }
 
-func Newcustomer(db *sql.DB) CustomerRepo {
-	return CustomerRepo{
+func Newcustomer(db *sql.DB) customerRepo {
+	return customerRepo{
 		db: db,
 	}
 }
-
-func (c *CustomerRepo) Create(customer model.Customer) (string, error) {
+func (c *customerRepo) Createcus(customer model.Customers) (string, error) {
 
 	id := uuid.New()
 
-	query := `INSERT INTO customerss(
+	query := `INSERT INTO customerss (
         id,
         first_name,
         last_name,
         gmail,
-		phone,
-        is_blocked,
-        )
-    VALUES($1,$2,$3,$4,$5,$6) `
+        phone,
+        is_blocked)
+		VALUES ($1, $2, $3, $4, $5, $6)`
 
-	res, err := c.db.Exec(query,
+	_, err := c.db.Exec(query,
 		id.String(),
-		customer.First_name, customer.Last_name, customer.Gmail, customer.Phone, customer.Is_blocked)
-
+		customer.First_name,
+		customer.Last_name,
+		customer.Gmail,
+		customer.Phone,
+		customer.Is_blocked)
 	if err != nil {
-		return "", fmt.Errorf("error executing query: %w", err)
+		fmt.Println("you have error while creating :", err)
+		return "", err
 
 	}
-	fmt.Printf("%+v\n", res)
 
 	return id.String(), nil
+
 }
 
-func (c carRepo) GettAll(search string) (model.GetallcustomersResponse, error) {
+func (c *customerRepo) Updatecus(customer model.Customers) (string, error) {
+
+	queryy := `UPDATE customerss set
+            first_name=$1,
+            last_name=$2,
+            gmail=$3,
+            phone=$4,
+            is_blocked=$5,
+            updated_at=CURRENT_TIMESTAMP,
+			id=$6
+        WHERE id=$6 AND deleted_at=0
+    `
+
+	_, err := c.db.Exec(queryy,
+		customer.First_name, customer.Last_name,
+		customer.Gmail, customer.Phone,
+		customer.Is_blocked, customer.Id)
+	if err != nil {
+		fmt.Println("Error while updating customer:", err)
+		return "", err
+	}
+
+	return customer.Id, nil
+}
+
+func (c *customerRepo) GETallcus(search string) (model.Getcus, error) {
+
 	var (
-		resp   = model.GetallcustomersResponse{}
+		resp   = model.Getcus{}
 		filter = ""
 	)
 
@@ -58,82 +86,84 @@ func (c carRepo) GettAll(search string) (model.GetallcustomersResponse, error) {
 
 	fmt.Println("filter: ", filter)
 
-	rows, err := c.DATA.Query(`select 
+	rows, err := c.db.Query(`select 
 				count(id) OVER(),
-				id,
-				first_name,
-				last_name,
-				gmail,
+				id ,
+				first_name, 
+				last_name ,
+				gmail, 
 				phone,
 				is_blocked,
 				created_at::date,
 				updated_at
-	  FROM cars WHERE deleted_at = 0 ` + filter + ``)
+	  FROM customerss WHERE deleted_at = 0 ` + filter + ``)
+
 	if err != nil {
 		return resp, err
 	}
+
 	for rows.Next() {
+
 		var (
-			customer = model.Customer{}
-			updateAt sql.NullString
+			customerr = model.Customers{}
+			update    sql.NullString
 		)
 
 		if err := rows.Scan(
+
 			&resp.Count,
-			&customer.First_name,
-			&customer.Last_name,
-			&customer.Gmail,
-			&customer.Phone,
-			&customer.Is_blocked,
-			&customer.Created_at,
-			&updateAt); err != nil {
+			&customerr.Id,
+			&customerr.First_name,
+			&customerr.Last_name,
+			&customerr.Gmail,
+			&customerr.Phone,
+			&customerr.Is_blocked,
+			&customerr.Created_at,
+			&update); err != nil {
+			fmt.Println("error while scaning all infos", err)
 			return resp, err
 		}
+		customerr.Updated_at = pkg.NullStringToString(update)
+		resp.Coustomer = append(resp.Coustomer, customerr)
 
-		customer.Updated_at = pkg.NullStringToString(updateAt)
-		resp.Coustomer = append(resp.Coustomer, customer)
 	}
 	return resp, nil
-}
-func (c *CustomerRepo) GetByyid(id string) ([]model.Customer, error) {
-	cus := []model.Customer{}
-	rows, err := c.db.Query(`SELECT 
-	id,
-				first_name,
-				last_name,
-				gmail,
-				phone,
-				is_blocked, FROM customerss
-	where id=$1`, id)
-	if err != nil {
-		fmt.Println("error while getting id country err: ", err)
-		return cus, err
-	}
-
-	for rows.Next() {
-		customer := model.Customer{}
-		if err = rows.Scan(&customer.First_name,
-			&customer.Last_name,
-			&customer.Gmail,
-			&customer.Phone,
-			&customer.Is_blocked); err != nil {
-			fmt.Println("error while scanning country err: ", err)
-			return nil, err
-		}
-		cus = append(cus, customer)
-	}
-
-	return cus, nil
 
 }
 
-func (c *CustomerRepo) Delete(id string) error {
+func (c *customerRepo) Getbyidcus(id string) (model.Customers, error) {
 
-	query := ` UPDATE cars set
-			deleted_at = date_part('epoch', CURRENT_TIMESTAMP)::int
-		WHERE id = $1 AND deleted_at=0
-	`
+	fmt.Println("hey mann")
+	custommer := model.Customers{}
+	if err := c.db.QueryRow(`SELECT 
+	id ,
+	first_name, 
+	last_name ,
+	gmail, 
+	phone,
+    is_blocked
+	from customerss where id=$1`, id).Scan(
 
+		&custommer.Id,
+		&custommer.First_name,
+		&custommer.Last_name,
+		&custommer.Gmail,
+		&custommer.Phone,
+		&custommer.Is_blocked,
+	); err != nil {
+
+		return model.Customers{}, err
+	}
+	return custommer, nil
+
+}
+
+func (c *customerRepo) Deletecus(id string) error {
+
+	query := `UPDATE customerss set 
+	deleted_at=date_part('epoch',CURRENT_TIMESTAMP)::int
+where id=$1 AND deleted_at=0
+`
 	_, err := c.db.Exec(query, id)
 
 	if err != nil {
@@ -144,30 +174,5 @@ func (c *CustomerRepo) Delete(id string) error {
 
 }
 
-/*
-func (c *customerRepo) Update(customer customerRepo) (string, error) {
 
-	query := ` UPDATE cars set
-			name=$1,
-			brand=$2,
-			model=$3,
-			hourse_power=$4,
-			colour=$5,
-			engine_cap=$6,
-			updated_at=CURRENT_TIMESTAMP
-		WHERE id = $7 AND deleted_at=0
-	`
-
-	_, err := c.db.Exec(query,
-		customer.Last_name,
-		customer.Gmail,
-		customer.Phone,
-		customer.Is_blocked, customer)
-
-	if err != nil {
-		return "", err
-	}
-
-	return customer.Id, nil
-}
-*/
+id | group_id | branch_id | teacher | type | created_at | updated_at 

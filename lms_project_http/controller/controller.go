@@ -1,11 +1,11 @@
 package controller
 
 import (
-	"cars_with_sql/config"
-	model "cars_with_sql/models"
-	"cars_with_sql/storage"
 	"encoding/json"
 	"fmt"
+	"lms_backed_pr/configg"
+	"lms_backed_pr/model"
+	"lms_backed_pr/storage"
 	"net/http"
 )
 
@@ -13,9 +13,9 @@ type Controller struct {
 	Store storage.Store
 }
 
-func NewController(store storage.Store) Controller {
+func NewController(db storage.Store) Controller {
 	return Controller{
-		Store: store,
+		Store: db,
 	}
 }
 
@@ -23,15 +23,15 @@ func handleResponse(w http.ResponseWriter, statusCode int, data interface{}) {
 	resp := model.Response{}
 
 	if statusCode >= 100 && statusCode <= 199 {
-		resp.Description = config.ERR_INFORMATION
+		resp.Description = configg.ERR_INFORMATION
 	} else if statusCode >= 200 && statusCode <= 299 {
-		resp.Description = config.SUCCESS
+		resp.Description = configg.SUCCESS
 	} else if statusCode >= 300 && statusCode <= 399 {
-		resp.Description = config.ERR_REDIRECTION
+		resp.Description = configg.ERR_REDIRECTION
 	} else if statusCode >= 400 && statusCode <= 499 {
-		resp.Description = config.ERR_BADREQUEST
+		resp.Description = configg.ERR_BADREQUEST
 	} else {
-		resp.Description = config.ERR_INTERNAL_SERVER
+		resp.Description = configg.ERR_INTERNAL_SERVER
 	}
 	resp.StatusCode = statusCode
 	resp.Data = data
@@ -46,9 +46,3 @@ func handleResponse(w http.ResponseWriter, statusCode int, data interface{}) {
 	w.WriteHeader(statusCode)
 	w.Write(js)
 }
-
-"id" UUID NOT NULL PRIMARY KEY,
-    "lesson_id" UUID REFERENCES "lesson"("id"),
-    "group_id" UUID REFERENCES "group"("id"),
-    "task" varchar(255) NOT NULL,
-    "score" integer not NULL DEFAULT 0,

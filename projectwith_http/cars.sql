@@ -16,12 +16,20 @@ CREATE TABLE IF NOT EXISTS cars (
 CREATE TABLE IF NOT EXISTS customerss (
     id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
     first_name VARCHAR(50) NOT NULL,
-    last_name VARCHAR(50),
-    gmail VARCHAR(50) NOT NULL,--NEED VALIDATION
+    last_name VARCHAR(50) UNIQUE,
+    gmail VARCHAR(50) NOT NULL UNIQUE,--NEED VALIDATION
     phone VARCHAR(20) NOT NULL,--NEED VALIDATION
     is_blocked BOOLEAN NOT NULL DEFAULT FALSE,
     created_at TIMESTAMP DEFAULT NOW(),
     updated_at TIMESTAMP,
     deleted_at INTEGER DEFAULT 0
+ 
 )
 
+ALTER TABLE customerss
+ADD CONSTRAINT cu_customerss UNIQUE (delete_at,phone);
+
+cu_customerss
+
+ALTER TABLE customerss
+DROP CONSTRAINT cu_customerss;

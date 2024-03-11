@@ -1,4 +1,4 @@
-package config
+package configg
 
 import (
 	"fmt"
@@ -19,17 +19,20 @@ type Config struct {
 func Load() Config {
 
 	if err := godotenv.Load(); err != nil {
-		fmt.Println("error!!!", err)
+		fmt.Println("error !!", err)
+
 	}
+
 	cfg := Config{}
 
 	cfg.PostgresHost = cast.ToString(getOrReturnDefault("POSTGRES_HOST", "localhost"))
 	cfg.PostgresPort = cast.ToInt(getOrReturnDefault("POSTGRES_PORT", 5432))
-	cfg.PostgresDatabase = cast.ToString(getOrReturnDefault("POSTGRES_DATABASE", "backend_c"))
+	cfg.PostgresDatabase = cast.ToString(getOrReturnDefault("POSTGRES_DATABASE", "lms_backed"))
 	cfg.PostgresUser = cast.ToString(getOrReturnDefault("POSTGRES_USER", "muhiddin"))
 	cfg.PostgresPassword = cast.ToString(getOrReturnDefault("POSTGRES_PASSWORD", "1"))
 
 	return cfg
+
 }
 
 func getOrReturnDefault(key string, defaultValue interface{}) interface{} {

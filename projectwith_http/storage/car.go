@@ -1,8 +1,7 @@
 package storage
 
 import (
-	"cars_with_sql/model"
-	"cars_with_sql/pkg"
+	model "cars_with_sql/models"
 	"database/sql"
 	"fmt"
 
@@ -66,6 +65,7 @@ func (c *carRepo) Create(car model.Car) (string, error) {
 func (c *carRepo) GetAll(sreach string) ([]model.Car, error) {
 	carr := []model.Car{}
 	rows, err := c.DATA.Query(`SELECT
+	id,
 	name,
 	brand,
 	model,
@@ -80,8 +80,8 @@ func (c *carRepo) GetAll(sreach string) ([]model.Car, error) {
 
 	for rows.Next() {
 		car := model.Car{}
-		if err = rows.Scan(&car.Name, &car.Model,
-			&car.Brand, &car.Model, &car.HoursePower, &car.Colour, &car.EngineCap); err != nil {
+		if err = rows.Scan(&car.Id, &car.Name,
+			&car.Brand, &car.Model, &car.Year, &car.HoursePower, &car.Colour, &car.EngineCap); err != nil {
 			fmt.Println("error while scanning country err: ", err)
 			return nil, err
 		}
@@ -91,39 +91,45 @@ func (c *carRepo) GetAll(sreach string) ([]model.Car, error) {
 	return carr, nil
 }
 
-func (c *carRepo) GetByid(id string) ([]model.Car, error) {
+func (c carRepo) GetByid(id string) ([]model.Car, error) {
 	carrr := []model.Car{}
 	rows, err := c.DATA.Query(`SELECT 
-	name,
-	brand,
-	model,
-	year,
-	hourse_power,
-	colour,
-	engine_cap FROM cars
-	where id=$1`, id)
+    id,
+    name,
+    brand,
+    model,
+    year,
+    hourse_power,
+    colour,
+    engine_cap FROM cars
+    where id=$1`, id)
 	if err != nil {
 		fmt.Println("error while getting id country err: ", err)
 		return carrr, err
 	}
 
+	defer rows.Close()
+
 	for rows.Next() {
 		car := model.Car{}
-		if err = rows.Scan(&car.Name, &car.Model,
-			&car.Brand, &car.Model, &car.HoursePower, &car.Colour, &car.EngineCap); err != nil {
+		if err = rows.Scan(&car.Id, &car.Name, &car.Brand, &car.Model, &car.Year, &car.HoursePower, &car.Colour, &car.EngineCap); err != nil {
 			fmt.Println("error while scanning country err: ", err)
 			return nil, err
 		}
 		carrr = append(carrr, car)
 	}
 
-	return carrr, nil
+	if err = rows.Err(); err != nil {
+		fmt.Println("error while iterating rows: ", err)
+		return nil, err
+	}
 
+	return carrr, nil
 }
 
 ////////////////////////////////////////////////////////////
-
-func (c customerRepo) GetAll(search string) (model.GetAllCarsResponse, error) {
+/*
+func (c carRepo) GetAll(search string) (model.GetAllCarsResponse, error) {
 	var (
 		resp   = model.GetAllCarsResponse{}
 		filter = ""
@@ -135,9 +141,9 @@ func (c customerRepo) GetAll(search string) (model.GetAllCarsResponse, error) {
 
 	fmt.Println("filter: ", filter)
 
-	rows, err := c.db.Query(`select 
+	rows, err := c.db.Query(`select
 				count(id) OVER(),
-				id, 
+				id,
 				name,
 				brand,
 				model,
@@ -177,7 +183,7 @@ func (c customerRepo) GetAll(search string) (model.GetAllCarsResponse, error) {
 	}
 	return resp, nil
 }
-
+*/
 ////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////
