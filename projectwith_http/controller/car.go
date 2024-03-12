@@ -56,7 +56,7 @@ func (c Controller) CreateCars(w http.ResponseWriter, r *http.Request) {
 		handleResponse(w, http.StatusBadRequest, err)
 		return
 	}
-	id, err := c.Store.Car.Create(car)
+	id, err := c.Store.Car().Createcar(car)
 	if err != nil {
 		fmt.Println("error while creating car,err:", err)
 		handleResponse(w, http.StatusInternalServerError, err)
@@ -91,7 +91,7 @@ func (c Controller) UpdateCars(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	id, err := c.Store.Car.Update(car)
+	id, err := c.Store.Car().UpdateCar(car)
 	if err != nil {
 		fmt.Println("error while creating car, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err)
@@ -103,14 +103,33 @@ func (c Controller) UpdateCars(w http.ResponseWriter, r *http.Request) {
 
 func (c Controller) GetAllCars(w http.ResponseWriter, r *http.Request) {
 	var (
-		values = r.URL.Query()
-		search string
+		values  = r.URL.Query()
+		search  string
+		request = model.GetAllCarsRequest{}
 	)
 	if _, ok := values["search"]; ok {
 		search = values["search"][0]
 	}
 
-	cars, err := c.Store.Car.GetAll(search)
+	request.Search = search
+	page, err := ParsePageQueryParam(r)
+
+	if err != nil {
+		fmt.Println("error while parsing limit,err:", err)
+		handleResponse(w, http.StatusInternalServerError, err.Error())
+		return
+	}
+	limit, err := ParseLimitQueryParam(r)
+
+	if err != nil {
+		fmt.Println("error while parsing limit ,err:", err)
+		handleResponse(w, http.StatusInternalServerError, err.Error())
+		return
+	}
+	request.Page = page
+	request.Limit = limit
+
+	cars, err := c.Store.Car().GetAllCars(request)
 	if err != nil {
 		fmt.Println("error while getting cars, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err.Error())
@@ -132,7 +151,7 @@ func (c Controller) DeleteCar(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	err = c.Store.Car.Delete(id)
+	err = c.Store.Car().Deletecar(id)
 	if err != nil {
 		fmt.Println("error while deleting car, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err)
@@ -154,7 +173,7 @@ func (c Controller) GetbyCar(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	carrs, err := c.Store.Car.GetByid(id)
+	carrs, err := c.Store.Car().GetByIDCar(id)
 	if err != nil {
 		fmt.Println("error while getting cars, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err.Error())
