@@ -18,7 +18,7 @@ func Newcustomer(db *sql.DB) customerRepo {
 		db: db,
 	}
 }
-func (c *customerRepo) Createcus(customer model.Customers) (string, error) {
+func (c *customerRepo) Createcuss(customer model.Customers) (string, error) {
 
 	id := uuid.New()
 
@@ -73,10 +73,10 @@ func (c *customerRepo) Updatecus(customer model.Customers) (string, error) {
 	return customer.Id, nil
 }
 
-func (c *customerRepo) GETallcus(search string) (model.Getcus, error) {
+func (c *customerRepo) GETallcus(search string) (model.GetAllCustomersResponse, error) {
 
 	var (
-		resp   = model.Getcus{}
+		resp   = model.GetAllCustomersResponse{}
 		filter = ""
 	)
 
@@ -124,14 +124,14 @@ func (c *customerRepo) GETallcus(search string) (model.Getcus, error) {
 			return resp, err
 		}
 		customerr.Updated_at = pkg.NullStringToString(update)
-		resp.Coustomer = append(resp.Coustomer, customerr)
+		resp.Customers = append(resp.Customers, customerr)
 
 	}
 	return resp, nil
 
 }
 
-func (c *customerRepo) Getbyidcus(id string) (model.Customers, error) {
+func (c *customerRepo) Getbyid(id string) (model.Customers, error) {
 
 	fmt.Println("hey mann")
 	custommer := model.Customers{}
@@ -158,7 +158,7 @@ func (c *customerRepo) Getbyidcus(id string) (model.Customers, error) {
 
 }
 
-func (c *customerRepo) Deletecus(id string) error {
+func (c *customerRepo) Delete(id string) error {
 
 	query := `UPDATE customerss set 
 	deleted_at=date_part('epoch',CURRENT_TIMESTAMP)::int
@@ -174,5 +174,4 @@ where id=$1 AND deleted_at=0
 
 }
 
-
-id | group_id | branch_id | teacher | type | created_at | updated_at 
+//

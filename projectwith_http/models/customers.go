@@ -12,17 +12,13 @@ type Customers struct {
 	Deleted_at int
 }
 
-type Getcus struct {
-	Coustomer []Customers
-	Count     int64
+type GetAllCustomersResponse struct {
+	Customers []Customers `json:"customers"`
+	Count     int16       `json:"count"`
 }
 
-"id" uuid PRIMARY KEY,
-  "full_name" varchar(255) NOT NULL,
-  "email" varchar(255) NOT NULL,
-  "age" int NOT NULL,
-  "status" varchar(60) NOT NULL CHECK("status" IN ('active', 'inactive')) DEFAULT 'active',
-  "login" varchar(255) NOT NULL,
-  "password" varchar(255) NOT NULL,
-  "created_at" timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  "updated_at" timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
+type GetAllCustomerRequest struct {
+	Search string `json:"search"`
+	Page   uint64 `json:"page"`
+	Limit  uint64 `json:"limit"`
+}

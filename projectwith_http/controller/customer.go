@@ -46,9 +46,9 @@ func (c Controller) Customer(w http.ResponseWriter, r *http.Request) {
 
 func (c Controller) Createcus(w http.ResponseWriter, r *http.Request) {
 
-	customerr := model.Customers{}
+	cus := model.Customers{}
 
-	if err := json.NewDecoder(r.Body).Decode(&customerr); err != nil {
+	if err := json.NewDecoder(r.Body).Decode(&cus); err != nil {
 		errstr := fmt.Sprintf("error while decoding request body,err:%v\n", err)
 		fmt.Print(errstr)
 		handleResponse(w, http.StatusBadRequest, errstr)
@@ -56,7 +56,7 @@ func (c Controller) Createcus(w http.ResponseWriter, r *http.Request) {
 
 	}
 
-	id, err := c.Store.Customer.Createcus(customerr)
+	id, err := c.Store.Customer().Create(cus)
 	if err != nil {
 		fmt.Println("error while creating customer,err:", err)
 		return
@@ -95,7 +95,7 @@ func (c Controller) Upadatecus(w http.ResponseWriter, r *http.Request) {
 		handleResponse(w, http.StatusBadRequest, err.Error())
 		return
 	}
-	id, err := c.Store.Customer.Updatecus(custommer)
+	id, err := c.Store.Customer().UpdateCustomer(custommer)
 	if err != nil {
 		fmt.Println("error while updating customer,err:", err)
 		handleResponse(w, http.StatusBadRequest, err.Error())
@@ -108,15 +108,16 @@ func (c Controller) Upadatecus(w http.ResponseWriter, r *http.Request) {
 
 func (c Controller) Getallcus(w http.ResponseWriter, r *http.Request) {
 	var (
-		values = r.URL.Query()
-		search string
+		values  = r.URL.Query()
+		search  string
+		request = model.GetAllCustomerRequest{}
 	)
 	if _, ok := values["search"]; ok {
 		search = values["search"][0]
 	}
-	fmt.Print("gett all")
+	request.Search = search
 
-	cars, err := c.Store.Customer.GETallcus(search)
+	cars, err := c.Store.Customer().GetAllCustomers(request)
 	if err != nil {
 		fmt.Println("error while getting cars, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err.Error())
@@ -130,7 +131,7 @@ func (c Controller) GetByIDCus(w http.ResponseWriter, r *http.Request) {
 	values := r.URL.Query()
 	id := values["id"][0]
 
-	cus, err := c.Store.Customer.Getbyidcus(id)
+	cus, err := c.Store.Customer().GetByIDCustomer(id)
 	if err != nil {
 		fmt.Println("error while getting car by id")
 		handleResponse(w, http.StatusInternalServerError, err)
@@ -151,7 +152,7 @@ func (c Controller) Deletecus(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	err = c.Store.Customer.Deletecus(id)
+	err = c.Store.Customer().DeleteCustomer(id)
 	if err != nil {
 		fmt.Println("error while deleting car, err: ", err)
 		handleResponse(w, http.StatusInternalServerError, err)

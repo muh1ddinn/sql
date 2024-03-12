@@ -3,14 +3,14 @@ package main
 import (
 	"cars_with_sql/config"
 	"cars_with_sql/controller"
-	"cars_with_sql/storage"
+	"cars_with_sql/storage/postgres"
 	"fmt"
 	"net/http"
 )
 
 func main() {
 	cfg := config.Load()
-	store, err := storage.New(cfg)
+	store, err := postgres.Neww(cfg)
 	if err != nil {
 		fmt.Println("error while connecting db, err: ", err)
 		return

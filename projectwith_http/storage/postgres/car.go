@@ -2,6 +2,7 @@ package storage
 
 import (
 	model "cars_with_sql/models"
+	"cars_with_sql/pkg"
 	"database/sql"
 	"fmt"
 
@@ -12,7 +13,7 @@ type carRepo struct {
 	DATA *sql.DB
 }
 
-func Newcar(DATA *sql.DB) carRepo {
+func Newwcar(DATA *sql.DB) carRepo {
 	return carRepo{
 		DATA: DATA,
 	}
@@ -28,7 +29,7 @@ getALL(serach) []body,count,err
 
 ======================================
 */
-func (c *carRepo) Create(car model.Car) (string, error) {
+func (c *carRepo) Createcar(car model.Car) (string, error) {
 
 	id := uuid.New()
 
@@ -62,36 +63,64 @@ func (c *carRepo) Create(car model.Car) (string, error) {
 // /////////////////////////////////////////////////////
 // /////////////////////////////////////////////////////
 
-func (c *carRepo) GetAll(sreach string) ([]model.Car, error) {
-	carr := []model.Car{}
-	rows, err := c.DATA.Query(`SELECT
-	id,
-	name,
-	brand,
-	model,
-	year,
-	hourse_power,
-	colour,
-	engine_cap FROM cars`)
+func (c carRepo) GetAll(req model.GetAllCarsRequest) (model.GetAllCarsResponse, error) {
+	var (
+		resp   = model.GetAllCarsResponse{}
+		filter = ""
+	)
+	offset := (req.Page - 1) * req.Limit
+
+	if req.Search != "" {
+		filter += fmt.Sprintf(` and name ILIKE  '%%%v%%' `, req.Search)
+	}
+
+	filter += fmt.Sprintf(" OFFSET %v LIMIT %v", offset, req.Limit)
+	fmt.Println("filter: ", filter)
+	rows, err := c.DATA.Query(`select 
+				count(id) OVER(),
+				id, 
+				name,
+				brand,
+				model,
+				year,
+				hourse_power,
+				colour,
+				engine_cap,
+				created_at::date,
+				updated_at
+	  FROM cars WHERE deleted_at = 0 ` + filter + `
+	  `)
 	if err != nil {
-		fmt.Println("error while getting all country err: ", err)
-		return nil, err
+		return resp, err
 	}
-
 	for rows.Next() {
-		car := model.Car{}
-		if err = rows.Scan(&car.Id, &car.Name,
-			&car.Brand, &car.Model, &car.Year, &car.HoursePower, &car.Colour, &car.EngineCap); err != nil {
-			fmt.Println("error while scanning country err: ", err)
-			return nil, err
-		}
-		carr = append(carr, car)
-	}
+		var (
+			car      = model.Car{}
+			updateAt sql.NullString
+		)
 
-	return carr, nil
+		if err := rows.Scan(
+			&resp.Count,
+			&car.Id,
+			&car.Name,
+			&car.Brand,
+			&car.Model,
+			&car.Year,
+			&car.HoursePower,
+			&car.Colour,
+			&car.EngineCap,
+			&car.CreatedAt,
+			&updateAt); err != nil {
+			return resp, err
+		}
+
+		car.UpdatedAt = pkg.NullStringToString(updateAt)
+		resp.Cars = append(resp.Cars, car)
+	}
+	return resp, nil
 }
 
-func (c carRepo) GetByid(id string) ([]model.Car, error) {
+func (c carRepo) GetByidcar(id string) ([]model.Car, error) {
 	carrr := []model.Car{}
 	rows, err := c.DATA.Query(`SELECT 
     id,
@@ -188,7 +217,7 @@ func (c carRepo) GetAll(search string) (model.GetAllCarsResponse, error) {
 ///////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////
 
-func (c *carRepo) Delete(id string) error {
+func (c *carRepo) Deletecar(id string) error {
 
 	query := ` UPDATE cars set
 			deleted_at = date_part('epoch', CURRENT_TIMESTAMP)::int
